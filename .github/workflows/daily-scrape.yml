@@ -1,6 +1,6 @@
 name: Daily Hackathon Scout
 
-run-name: Hackathon Scout ${{ github.run_number }}
+run-name: "Hackathon Scout #${{ github.run_number }}"
 
 on:
   schedule:
