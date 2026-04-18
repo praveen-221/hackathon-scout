@@ -1,4 +1,4 @@
-# Hackathon Scout 🏆
+# Hackathon Scout
 
 A Python-based hackathon discovery tool that scrapes upcoming hackathons from multiple sources, filters by configurable criteria, and sends daily email notifications.
 
