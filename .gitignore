@@ -38,8 +38,9 @@ env/
 Thumbs.db
 
 # Data & Logs
-logs/
-*.log
+# data/
+# logs/
+# *.log
 
 # Environment
 .env

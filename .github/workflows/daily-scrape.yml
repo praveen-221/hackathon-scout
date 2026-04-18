@@ -6,13 +6,12 @@ on:
     - cron: '0 0 * * *'
   # Allow manual trigger
   workflow_dispatch:
-  # Also run on push to main
-  push:
-    branches:
-      - main
+
+permissions:
+  contents: write
 
 jobs:
-  scrape:
+  fetch-hackathons:
     runs-on: ubuntu-latest
     
     steps:
@@ -37,6 +36,15 @@ jobs:
           RECIPIENT_LIST: ${{ secrets.RECIPIENT_LIST }}
         run: |
           python -m src.cli
+      
+      - name: Commit and push data
+        # if: github.event_name == 'schedule' # Only push on scheduled runs, not manual triggers
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/ logs/
+          git commit -m "Update hackathon data $(date +'%Y-%m-%d')" || echo "No changes to commit"
+          git push
       
       - name: Upload artifacts
         if: always()

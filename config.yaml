@@ -97,7 +97,7 @@ sources:
 # Filtering options
 filters:
   min_days_ahead: 0
-  max_days_ahead: 180
+  max_days_ahead: 90
   include_ended: false
   # Countries/regions for in-person events. Online events are not filtered.
   regions: 
