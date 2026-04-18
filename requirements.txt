@@ -1,0 +1,24 @@
+# Hackathon Scout Dependencies
+
+# HTTP and Async
+aiohttp>=3.9.0
+aiofiles>=23.2.0
+
+# HTML Parsing
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Configuration
+pyyaml>=6.0
+python-dotenv>=1.0.0
+
+# Email
+# (Built-in smtplib is used - no extra dependency)
+
+# Logging
+# (Built-in logging is used - no extra dependency)
+
+# Development/Testing (optional)
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+pytest-cov>=4.1.0

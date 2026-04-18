@@ -1,0 +1,126 @@
+# Hackathon Scout Configuration
+# Copy this to config.yaml and customize
+
+# # Fields/topics to search for hackathons (leave empty for all)
+# fields:
+#   - AI/ML
+#   - Web Development
+#   - Blockchain
+
+# # Keyword expansions - map fields to related keywords
+# keywords_expand:
+#   ai/ml:
+#     - artificial intelligence
+#     - genai
+#     - gpt
+#     - llm
+#     - machine learning
+#     - deep learning
+
+# Email notification settings (leave empty to disable)
+email:
+  smtp_host: "smtp.gmail.com"
+  smtp_port: 587
+  sender_email: ${SENDER_EMAIL}
+  sender_password: ${SMTP_PASSWD}
+  recipient_list: ${RECIPIENT_LIST}
+  use_tls: true
+
+sources:
+  # Devpost - major hackathon platform
+  - name: devpost
+    enabled: true
+    priority: 1
+    base_url: "https://devpost.com"
+    use_api: true
+    api_url: "https://devpost.com/api/hackathons"
+    api_response_format: "devpost"
+
+  # Unstop - competitions & hackathons platform
+  - name: unstop
+    enabled: true
+    priority: 2
+    base_url: "https://unstop.com"
+    use_api: true
+    api_url: "https://unstop.com/api/public/opportunity/search-result?opportunity=hackathons&oppstatus=open"
+    api_response_format: "unstop"
+
+  # Devfolio - hackathon platform
+  - name: devfolio
+    enabled: true
+    priority: 3
+    base_url: "https://devfolio.co"
+    use_api: true
+    api_url: "https://devfolio.co/hackathons"
+    api_response_format: "devfolio"
+
+  # Hack2Skill - hackathon platform
+  - name: hack2skill
+    enabled: true
+    priority: 4
+    base_url: "https://vision.hack2skill.com"
+    use_api: true
+    api_url: "https://vision.hack2skill.com/api/v1/innovator/public/event/public-list"
+    api_response_format: "hack2skill"
+    api_headers:
+      Accept: "application/json, text/plain, */*"
+      Referer: "https://vision.hack2skill.com/hackathons-listing"
+      Origin: "https://vision.hack2skill.com"
+
+  # WhereUElevate - hackathon platform
+  - name: whereuelevate
+    enabled: true
+    priority: 5
+    base_url: "https://whereuelevate.com"
+    use_api: true
+    api_url: "https://api.whereuelevate.com/internity/api/v1/drills/search?drillCategory=HACKATHON&drillId=all&limit=30&mode=all&offset=0&order=DESC&status=all&type=all&isActive=true&hideFromUserListing=false"
+    api_response_format: "generic"
+
+  # HackerEarth - coding challenges platform
+  - name: hackerearth
+    enabled: true
+    priority: 6
+    base_url: "https://www.hackerearth.com"
+    use_api: true
+    api_url: "https://www.hackerearth.com/api/community/challenges/compete/?limit=100&status=UPCOMING"
+    api_response_format: "generic"
+
+  # Devnovate - hackathon platform
+  - name: devnovate
+    enabled: true
+    priority: 7
+    base_url: "https://devnovate.co"
+    use_api: true
+    api_url: "https://devnovate.co/api/v1/events"
+    api_response_format: "generic"
+
+# Filtering options
+filters:
+  min_days_ahead: 0
+  max_days_ahead: 180
+  include_ended: false
+  # Countries/regions for in-person events. Online events are not filtered.
+  regions: 
+    - "Bengaluru"
+  # Filter to India-specific hackathons only
+  india_only: false
+  # Eligibility filter - keywords to filter participation criteria
+  # Use eligibility_mode: "exclude" to remove matches, "include" to keep only matches
+  eligibility_keywords: 
+    - "students"
+    - "UG"
+  eligibility_mode: "exclude"
+
+# Storage settings
+storage:
+  file_path: "data/hackathons.json"
+  dedup_days: 30
+  max_entries: 1000
+
+# Logging configuration
+logging:
+  level: "INFO"
+  file: "logs/scraper.log"
+  console: true
+  max_size_mb: 50
+  backup_count: 2
