@@ -2297,3 +2297,47 @@
 2026-06-09 02:58:41,968 - src.orchestrator - INFO - Total hackathons: 111
 2026-06-09 02:58:41,968 - src.orchestrator - INFO - New this run: 5
 2026-06-09 02:58:41,968 - src.orchestrator - INFO - ==================================================
+2026-06-10 03:36:17,872 - src.orchestrator - INFO - Logging configured
+2026-06-10 03:36:17,872 - src.orchestrator - INFO - Storage initialized
+2026-06-10 03:36:17,872 - src.orchestrator - INFO - Email notifier configured for 1 recipients
+2026-06-10 03:36:17,873 - src.orchestrator - INFO - Starting scrape...
+2026-06-10 03:36:17,873 - src.orchestrator - INFO - Scraping from 7 sources: ['devpost', 'unstop', 'devfolio', 'hack2skill', 'whereuelevate', 'hackerearth', 'devnovate']
+2026-06-10 03:36:17,873 - src.orchestrator - INFO - Scraping devpost...
+2026-06-10 03:36:18,045 - src.scrapers.base.DevpostScraper - INFO - Scraped 9 from Devpost
+2026-06-10 03:36:18,045 - src.orchestrator - INFO -   -> Got 9 hackathons from devpost
+2026-06-10 03:36:18,045 - src.orchestrator - INFO - Scraping unstop...
+2026-06-10 03:36:19,640 - src.scrapers.base.UnstopScraper - INFO - Scraped 49 from Unstop
+2026-06-10 03:36:19,641 - src.orchestrator - INFO -   -> Got 49 hackathons from unstop
+2026-06-10 03:36:19,641 - src.orchestrator - INFO - Scraping devfolio...
+2026-06-10 03:36:20,714 - src.scrapers.base.DevfolioScraper - INFO - Scraped 12 from Devfolio
+2026-06-10 03:36:20,714 - src.orchestrator - INFO -   -> Got 12 hackathons from devfolio
+2026-06-10 03:36:20,715 - src.orchestrator - INFO - Scraping hack2skill...
+2026-06-10 03:36:21,302 - src.scrapers.base.Hack2SkillScraper - INFO - Scraped 10 from Hack2Skill
+2026-06-10 03:36:21,303 - src.orchestrator - INFO -   -> Got 10 hackathons from hack2skill
+2026-06-10 03:36:21,303 - src.orchestrator - INFO - Scraping whereuelevate...
+2026-06-10 03:36:22,839 - src.scrapers.base.WhereUElevateScraper - INFO - Scraped 30 from WhereUElevate
+2026-06-10 03:36:22,840 - src.orchestrator - INFO -   -> Got 30 hackathons from whereuelevate
+2026-06-10 03:36:22,840 - src.orchestrator - INFO - Scraping hackerearth...
+2026-06-10 03:36:24,162 - src.scrapers.base.HackerEarthScraper - INFO - Scraped 4 from HackerEarth
+2026-06-10 03:36:24,162 - src.orchestrator - INFO -   -> Got 4 hackathons from hackerearth
+2026-06-10 03:36:24,162 - src.orchestrator - INFO - Scraping devnovate...
+2026-06-10 03:36:26,595 - src.scrapers.base.DevnovateScraper - INFO - Scraped 218 from Devnovate
+2026-06-10 03:36:26,596 - src.orchestrator - INFO -   -> Got 218 hackathons from devnovate
+2026-06-10 03:36:26,596 - src.orchestrator - INFO - Saving 332 unfiltered hackathons...
+2026-06-10 03:36:26,601 - src.storage - INFO - Saved 332 unfiltered hackathons to data/hackathons_unfiltered.json
+2026-06-10 03:36:26,601 - src.orchestrator - INFO - Filtering hackathons...
+2026-06-10 03:36:26,602 - src.orchestrator - INFO - Filtered to 23 hackathons matching criteria
+2026-06-10 03:36:26,602 - src.orchestrator - INFO - Storing and deduplicating...
+2026-06-10 03:36:26,602 - src.orchestrator - INFO - Filtered to 23 valid hackathons after removing invalid entries
+2026-06-10 03:36:26,603 - src.storage - INFO - Loaded 111 hackathons from storage
+2026-06-10 03:36:26,603 - src.storage - INFO - Found 3 new hackathons out of 23 scraped
+2026-06-10 03:36:26,606 - src.storage - INFO - Saved 114 hackathons to storage
+2026-06-10 03:36:26,606 - src.orchestrator - INFO - Sending email for 3 new hackathons...
+2026-06-10 03:36:27,607 - src.emailer - INFO - Sent email to 1 recipients with 3 hackathons
+2026-06-10 03:36:27,607 - src.orchestrator - INFO - Email sent successfully
+2026-06-10 03:36:27,608 - src.storage - INFO - Loaded 114 hackathons from storage
+2026-06-10 03:36:27,608 - src.orchestrator - INFO - ==================================================
+2026-06-10 03:36:27,608 - src.orchestrator - INFO - Completed in 9.7s
+2026-06-10 03:36:27,608 - src.orchestrator - INFO - Total hackathons: 114
+2026-06-10 03:36:27,608 - src.orchestrator - INFO - New this run: 3
+2026-06-10 03:36:27,608 - src.orchestrator - INFO - ==================================================
