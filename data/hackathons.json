@@ -1,5 +1,86 @@
 [
   {
+    "name": "Hacker's Gambit 2026",
+    "source": "unstop",
+    "url": "https://unstop.com/hackathons/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293",
+    "start_date": "2026-10-02T00:00:00",
+    "end_date": "2026-10-30T00:00:00",
+    "registration_deadline": null,
+    "description": "Hackers Gambit 2026 &ndash; International Capture The Flag (CTF) Competition Hackers Gambit 2026 is an International-Level Capture The Flag (CTF) Competition organized by JCOE Cyber Sentinels, Jaihind College of Engineering, Kuran. The event aims to bring together students, cybersecurity enthusiasts, researchers, and professionals from around the world to compete in a challenging cybersecurity competition designed to test technical expertise, analytical thinking, and problem-solving skills. The ",
+    "mode": "online",
+    "venue": "",
+    "participation_criteria": "",
+    "prize_pool": "1: $110000, 2: $70000, 3: $45000",
+    "tags": [
+      "unstop",
+      "Digital Forensics",
+      "Open Source Intelligence (OSINT)",
+      "Reverse Engineering",
+      "online_coding_challenge"
+    ],
+    "scraped_at": "2026-07-23T02:35:45.069094"
+  },
+  {
+    "name": "SimuCode Robotics Challenge Week 2026",
+    "source": "unstop",
+    "url": "https://unstop.com/hackathons/simucode-robotics-challenge-week-2026-simucode-1720382",
+    "start_date": "2026-07-25T00:00:00",
+    "end_date": "2026-07-25T00:00:00",
+    "registration_deadline": null,
+    "description": "About the Challenge: SimuCode Robotics Challenge Week 2026 is a free, solo, timed robotics coding challenge running from 17&ndash;25 July 2026. Unlike traditional coding competitions, every problem is based on real production-style robotics faults and is matched to the participant's experience level and discipline. The challenge is entirely browser-based, providing access to a live terminal, TF tree, rqt_graph, and ROS logs without requiring any local ROS setup, Gazebo installation, or workspace",
+    "mode": "online",
+    "venue": "",
+    "participation_criteria": "",
+    "prize_pool": "",
+    "tags": [
+      "unstop",
+      "Robotics Simulation (Gazebo)",
+      "Python",
+      "C++ Programming Language",
+      "Robotics Kinematics",
+      "online_coding_challenge"
+    ],
+    "scraped_at": "2026-07-23T02:35:45.070043"
+  },
+  {
+    "name": "HackWithUP 2.0",
+    "source": "devnovate",
+    "url": "https://devnovate.co/event/hackwithup-20",
+    "start_date": "2026-08-21T00:00:00",
+    "end_date": "2026-08-21T00:00:00",
+    "registration_deadline": "2026-08-20T23:10:00",
+    "description": "",
+    "mode": "online",
+    "venue": "Chandigarh University",
+    "participation_criteria": "",
+    "prize_pool": "$2,000 USD Prize Pool + Exclusive Swags + Certificates + Recognition + Networking Opportunities",
+    "tags": [
+      "devnovate",
+      "AI"
+    ],
+    "scraped_at": "2026-07-23T02:35:52.674121"
+  },
+  {
+    "name": "The Dawn",
+    "source": "devnovate",
+    "url": "https://devnovate.co/event/the-dawn",
+    "start_date": "2026-07-31T00:00:00",
+    "end_date": "2026-08-01T00:00:00",
+    "registration_deadline": "2026-07-30T23:59:00",
+    "description": "",
+    "mode": "online",
+    "venue": "Virtual",
+    "participation_criteria": "",
+    "prize_pool": "750 Dollars(includes Cash, Ai Credits)",
+    "tags": [
+      "devnovate",
+      "Generative AI",
+      "HealthTech",
+      "Web Development"
+    ],
+    "scraped_at": "2026-07-23T02:35:52.674332"
+  },
+  {
     "name": "Bidaya - Under The Surface (Prizes:100K USD In Virtual Cards)",
     "source": "unstop",
     "url": "https://unstop.com/hackathons/under-the-surface-hackathon-bidaya-1722539",
@@ -3115,130 +3196,5 @@
       "online_coding_challenge"
     ],
     "scraped_at": "2026-04-25T02:23:39.416617"
-  },
-  {
-    "name": "GraphRAG Inference Hackathon by TigerGraph",
-    "source": "unstop",
-    "url": "https://unstop.com/hackathons/graphrag-inference-hackathon-by-tigergraph-tigergraph-1678762",
-    "start_date": null,
-    "end_date": null,
-    "registration_deadline": null,
-    "description": "Welcome to the GraphRAG Inference Hackathon by TigerGraph! A beginner-friendly online coding challenge where you'll prove that graphs make LLM inference faster, cheaper, and smarter. About the Opportunity: LLMs are powerful, but they're also expensive and slow. Every time you ask them something complex, they burn through thousands of tokens trying to reason their way to an answer - and at scale, that cost adds up fast. Graphs offer a smarter path. By organizing information into relationships the",
-    "mode": "online",
-    "venue": "",
-    "participation_criteria": "",
-    "prize_pool": "Winner - 1st Place: $23499, 1st Runner-Up - 2nd Place: $14099, 2nd Runner-Up - 3rd Place: $9399",
-    "tags": [
-      "unstop",
-      "API Integration",
-      "Artificial Intelligence (AI)",
-      "Python",
-      "Database Management Systems (DBMS)",
-      "online_coding_challenge"
-    ],
-    "scraped_at": "2026-04-24T02:33:58.012515"
-  },
-  {
-    "name": "ALGOVERSE 2.0",
-    "source": "devnovate",
-    "url": "https://devnovate.co/event/algoverse-20",
-    "start_date": "2026-06-01T00:00:00",
-    "end_date": "2026-06-01T00:00:00",
-    "registration_deadline": "2026-05-30T00:00:00",
-    "description": "",
-    "mode": "online",
-    "venue": "MASTER UNION , GURGAON",
-    "participation_criteria": "",
-    "prize_pool": "1,000$",
-    "tags": [
-      "devnovate",
-      "Generative AI",
-      "HealthTech",
-      "FinTech"
-    ],
-    "scraped_at": "2026-04-24T02:34:04.619108"
-  },
-  {
-    "name": "GENIGNITE2.0",
-    "source": "devnovate",
-    "url": "https://devnovate.co/event/genignite-20",
-    "start_date": "2026-06-10T00:00:00",
-    "end_date": "2026-06-10T00:00:00",
-    "registration_deadline": "2026-06-06T12:47:00",
-    "description": "",
-    "mode": "online",
-    "venue": "Master Union , Gurgaon",
-    "participation_criteria": "",
-    "prize_pool": "1,000 $",
-    "tags": [
-      "devnovate",
-      "Generative AI",
-      "HealthTech",
-      "FinTech"
-    ],
-    "scraped_at": "2026-04-24T02:34:04.619289"
-  },
-  {
-    "name": "HackWithBanglore 3.0",
-    "source": "devnovate",
-    "url": "https://devnovate.co/event/hackwithbanglore-30",
-    "start_date": "2026-05-23T00:00:00",
-    "end_date": "2026-05-23T00:00:00",
-    "registration_deadline": "2026-05-20T00:00:00",
-    "description": "",
-    "mode": "online",
-    "venue": "Microsoft Office , Bangalore",
-    "participation_criteria": "",
-    "prize_pool": "2,000$",
-    "tags": [
-      "devnovate",
-      "Generative AI",
-      "HealthTech",
-      "FinTech"
-    ],
-    "scraped_at": "2026-04-24T02:34:04.619550"
-  },
-  {
-    "name": "VibewithIndia 2.0",
-    "source": "devnovate",
-    "url": "https://devnovate.co/event/vibewithindia-20",
-    "start_date": "2026-05-30T00:00:00",
-    "end_date": "2026-05-01T00:00:00",
-    "registration_deadline": "2026-04-25T00:00:00",
-    "description": "",
-    "mode": "online",
-    "venue": "Virtual",
-    "participation_criteria": "",
-    "prize_pool": "1,000$",
-    "tags": [
-      "devnovate",
-      "Generative AI",
-      "HealthTech",
-      "FinTech"
-    ],
-    "scraped_at": "2026-04-24T02:34:04.619674"
-  },
-  {
-    "name": "Demo session on Comprehensive .NET Training",
-    "source": "unstop",
-    "url": "https://unstop.com/hackathons/demo-session-on-comprehensive-net-training-quality-thought-info-systems-1678312",
-    "start_date": "2026-04-24T00:00:00",
-    "end_date": "2026-04-24T00:00:00",
-    "registration_deadline": null,
-    "description": "Quality Thought, a reputed software training institute known for delivering industry-relevant programs, is excited to announce a free demo session on Comprehensive .NET Training with AI Integration on April 24, 2026, at 9:00 AM. Designed to meet the needs of both aspiring developers and experienced professionals, this session will be conducted in a hybrid format&mdash;online and offline, ensuring maximum accessibility and convenience for all participants. In today&rsquo;s rapidly evolving tech l",
-    "mode": "online",
-    "venue": "",
-    "participation_criteria": "",
-    "prize_pool": "",
-    "tags": [
-      "unstop",
-      ".NET Framework",
-      "API Integration",
-      "Application Performance Monitoring (APM)",
-      "Artificial Intelligence (AI)",
-      "Machine Learning Concepts",
-      "online_coding_challenge"
-    ],
-    "scraped_at": "2026-04-23T02:33:13.261582"
   }
 ]
