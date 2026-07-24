@@ -1,5 +1,69 @@
 [
   {
+    "name": "2nd NextGen Hackathon 2026",
+    "source": "unstop",
+    "url": "https://unstop.com/hackathons/2nd-nextgen-hackathon-2026-soft-computing-research-society-new-delhi-delhi-1722019",
+    "start_date": "2026-08-12T00:00:00",
+    "end_date": "2026-08-12T00:00:00",
+    "registration_deadline": null,
+    "description": "2nd NextGen Hackathon - An online Hackathon Presenting the 2nd NextGen Hackathon, an exciting online innovation marathon organized by the ACM Fremont Chapter, USA in association with the Soft Computing Research Society on 15-16 August 2026.. This hackathon is a dynamic platform where students, professionals, and tech enthusiasts come together to brainstorm, build, and showcase cutting-edge solutions to real-world challenges. Whether you&rsquo;re a seasoned coder, a design prodigy, or a curious b",
+    "mode": "online",
+    "venue": "",
+    "participation_criteria": "",
+    "prize_pool": "Hackthon Champion: $1000, 1st Runne- Up: $500, 2nd Runner-Up: $250",
+    "tags": [
+      "unstop",
+      "Artificial Intelligence (AI)",
+      "User Experience (UX) Design",
+      "Problem Solving",
+      "online_coding_challenge"
+    ],
+    "scraped_at": "2026-07-24T02:33:07.383988"
+  },
+  {
+    "name": "Buildathon 2026",
+    "source": "unstop",
+    "url": "https://unstop.com/hackathons/buildathon-2026-techverse-solutions-1723834",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "description": "About the Event: Buildathon 2026 is an innovation-driven competition where participants transform creative ideas into real-world solutions. The event is designed to encourage innovation, problem-solving, teamwork, and technical excellence by challenging participants to identify a real-world problem and develop a functional prototype. Unlike a traditional hackathon that focuses only on coding, Buildathon emphasizes the complete product development journey&mdash;from ideation and planning to desig",
+    "mode": "online",
+    "venue": "",
+    "participation_criteria": "",
+    "prize_pool": "Top - 3: Certificate",
+    "tags": [
+      "unstop",
+      "Innovation Management",
+      "Teamwork and Collaboration",
+      "Technical Skills",
+      "Problem Solving",
+      "online_coding_challenge"
+    ],
+    "scraped_at": "2026-07-24T02:33:07.386131"
+  },
+  {
+    "name": "National Level - PixxelHack 2.0 \u2013 A Web Development Hackathon",
+    "source": "unstop",
+    "url": "https://unstop.com/hackathons/pixxelhack-20-a-web-development-hackathon-thakur-college-of-engineering-and-technology-tcet-mumbai-1719044",
+    "start_date": "2026-08-03T00:00:00",
+    "end_date": "2026-08-03T00:00:00",
+    "registration_deadline": null,
+    "description": "National Level -&nbsp;PixxelHack 2.0 &ndash; Build. Innovate. Deploy. Welcome to PixxelHack 2.0, the flagship Web Development Hackathon organized by the TCET-ACM-SIGITE Student Chapter, the official ACM Student Chapter of Thakur College of Engineering and Technology (TCET), Mumbai. Following the success of the inaugural edition, PixxelHack returns with a bigger vision&mdash;to challenge aspiring developers, designers, and innovators to build impactful web solutions that solve real-world problems",
+    "mode": "online",
+    "venue": "",
+    "participation_criteria": "",
+    "prize_pool": "1st - First Position: $3000, 2nd - Second Position: $2000, 3rd - Third Position: $1000",
+    "tags": [
+      "unstop",
+      "Creativity",
+      "UI/UX Design",
+      "Problem Solving",
+      "online_coding_challenge"
+    ],
+    "scraped_at": "2026-07-24T02:33:07.396954"
+  },
+  {
     "name": "Hacker's Gambit 2026",
     "source": "unstop",
     "url": "https://unstop.com/hackathons/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293",
@@ -3154,47 +3218,5 @@
       "online_coding_challenge"
     ],
     "scraped_at": "2026-04-26T02:38:52.288510"
-  },
-  {
-    "name": "Override.exe",
-    "source": "unstop",
-    "url": "https://unstop.com/hackathons/overrideexe-ascent-scaler-school-of-technology-bengaluru-karnataka-1669645",
-    "start_date": null,
-    "end_date": null,
-    "registration_deadline": null,
-    "description": "Round 1: Online Qualifier:  Participate in an online CTF round Solve challenges across multiple domains Teams can participate remotely Evaluation based on challenges solved, difficulty, and time Top teams will be shortlisted for the final round.  Round 2: Final Round:  An on-campus Jeopardy-style CTF competition. Shortlisted teams will compete on a dedicated CTF platform. Participants can choose and solve challenges in any order. Submit flags to earn points and climb the leaderboard. Final resul",
-    "mode": "in-person",
-    "venue": "Bengaluru, Karnataka, India",
-    "participation_criteria": "",
-    "prize_pool": "Winner: $10000, Runner-Up: $7000, Second Runner-Up: $5000",
-    "tags": [
-      "unstop",
-      "Reverse Engineering",
-      "online_coding_challenge"
-    ],
-    "scraped_at": "2026-04-25T02:23:39.415116"
-  },
-  {
-    "name": "Impulse - CP Team Contest",
-    "source": "unstop",
-    "url": "https://unstop.com/hackathons/impulse-cp-team-contest-ascent-scaler-school-of-technology-bengaluru-karnataka-1669639",
-    "start_date": null,
-    "end_date": null,
-    "registration_deadline": null,
-    "description": "Description:  Impulse is an ICPC-style competitive programming contest built to test the limits of teamwork, strategy, and algorithmic excellence. Designed for teams that thrive under pressure, Impulse brings together some of the finest coders to compete in a battle of logic, coordination, and speed. Inspired by global collegiate programming contests, Impulse challenges participants with carefully curated problems spanning algorithms, data structures, and mathematical reasoning. It&rsquo;s not j",
-    "mode": "in-person",
-    "venue": "Bengaluru, Karnataka, India",
-    "participation_criteria": "",
-    "prize_pool": "Winner (1st Place): $12000, Runner-Up (2nd place): $9000, Second Runner-Up (3rd Place): $6000",
-    "tags": [
-      "unstop",
-      "C++ Programming Language",
-      "Python",
-      "Teamwork and Collaboration",
-      "Data Structures and Algorithms",
-      "Problem Solving",
-      "online_coding_challenge"
-    ],
-    "scraped_at": "2026-04-25T02:23:39.416617"
   }
 ]
