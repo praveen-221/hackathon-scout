@@ -1,5 +1,28 @@
 [
   {
+    "name": "Omnikon National Hackathon 2026",
+    "source": "unstop",
+    "url": "https://unstop.com/hackathons/omnikon-national-hackathon-2026-omnikon-1715716",
+    "start_date": "2026-08-20T00:00:00",
+    "end_date": "2026-08-27T00:00:00",
+    "registration_deadline": null,
+    "description": "Omnikon National Hackathon 2026 Build. Innovate. Impact. Welcome to the Omnikon National Hackathon 2026 &mdash; a month-long, national-level hackathon bringing together developers, designers, innovators, and technology enthusiasts from across India to solve real-world problems through technology. Whether you're passionate about Web Development, Mobile Development, Artificial Intelligence, Cybersecurity, Blockchain, Cloud Computing, IoT, Open Source, Developer Tools, or other emerging technologie",
+    "mode": "online",
+    "venue": "",
+    "participation_criteria": "",
+    "prize_pool": "Winner: $5000, Runner-Up: $3000, Second Runner-Up: $2000",
+    "tags": [
+      "unstop",
+      "Innovation Management",
+      "Project Management",
+      "Teamwork and Collaboration",
+      "User Experience (UX) Design",
+      "Problem Solving",
+      "online_coding_challenge"
+    ],
+    "scraped_at": "2026-07-27T02:47:05.111326"
+  },
+  {
     "name": "Future Ready Ops Innovation Challenge",
     "source": "unstop",
     "url": "https://unstop.com/hackathons/future-ready-ops-innovation-challenge-paper-buddy-1724585",
@@ -3237,50 +3260,5 @@
       "FinTech"
     ],
     "scraped_at": "2026-04-28T02:48:31.550409"
-  },
-  {
-    "name": "SecLeaf Q2 CTF 2026",
-    "source": "unstop",
-    "url": "https://unstop.com/hackathons/secleaf-q2-ctf-2026-secleaf-1636242",
-    "start_date": null,
-    "end_date": null,
-    "registration_deadline": null,
-    "description": "Challenge Categories:  Web Security&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Cryptography Digital Forensics&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Reverse Engineering Binary Exploitation&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; OSINT&nbsp; Steganography Miscellaneous Puzzles&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; ",
-    "mode": "online",
-    "venue": "",
-    "participation_criteria": "",
-    "prize_pool": "",
-    "tags": [
-      "unstop",
-      "Digital Forensics",
-      "Open Source Intelligence (OSINT)",
-      "Web Application Security Testing",
-      "Reverse Engineering",
-      "Linux",
-      "online_coding_challenge"
-    ],
-    "scraped_at": "2026-04-27T02:41:04.259494"
-  },
-  {
-    "name": "Bureau of Indian Standards x Sigma Squad AI Hackathon",
-    "source": "unstop",
-    "url": "https://unstop.com/hackathons/bureau-of-indian-standards-x-sigma-squad-ai-hackathon-indian-institute-of-technology-iit-tirupati-1679162",
-    "start_date": null,
-    "end_date": null,
-    "registration_deadline": null,
-    "description": "       Theme: Accelerating MSE Compliance - Automating BIS Standard DiscoveryAbout The Challenge:  Indian Micro and Small Enterprises (MSEs) often spend weeks identifying which Bureau of Indian Standards (BIS) regulations apply to their products This hackathon challenges participants to build an AI-powered Recommendation Engine that dramatically simplifies this process Participants will design and develop a Retrieval-Augmented Generation (RAG) system capable of converting product descriptions in",
-    "mode": "online",
-    "venue": "",
-    "participation_criteria": "",
-    "prize_pool": "1: $10000, 2: $5000",
-    "tags": [
-      "unstop",
-      "Artificial Intelligence (AI)",
-      "Machine Learning Concepts",
-      "Python",
-      "Natural Language Processing (NLP)",
-      "online_coding_challenge"
-    ],
-    "scraped_at": "2026-04-27T02:41:04.260665"
   }
 ]
