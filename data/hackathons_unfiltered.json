@@ -17,7 +17,7 @@
       "Gaming",
       "Mobile"
     ],
-    "scraped_at": "2026-08-22T01:07:18.172324"
+    "scraped_at": "2026-08-23T01:12:42.383482"
   },
   {
     "name": "Agentic Cinema: The Blockbuster Hackathon",
@@ -37,7 +37,7 @@
       "Machine Learning/AI",
       "Open Ended"
     ],
-    "scraped_at": "2026-08-22T01:07:18.172357"
+    "scraped_at": "2026-08-23T01:12:42.383527"
   },
   {
     "name": "All Things Agentic Hackathon",
@@ -57,7 +57,7 @@
       "Machine Learning/AI",
       "Productivity"
     ],
-    "scraped_at": "2026-08-22T01:07:18.173440"
+    "scraped_at": "2026-08-23T01:12:42.384934"
   },
   {
     "name": "Agents for Humans Hackathon",
@@ -77,7 +77,7 @@
       "Machine Learning/AI",
       "Open Ended"
     ],
-    "scraped_at": "2026-08-22T01:07:18.173461"
+    "scraped_at": "2026-08-23T01:12:42.384962"
   },
   {
     "name": "CALL-E: Your Code Is Calling",
@@ -97,7 +97,7 @@
       "Enterprise",
       "Machine Learning/AI"
     ],
-    "scraped_at": "2026-08-22T01:07:18.173476"
+    "scraped_at": "2026-08-23T01:12:42.384981"
   },
   {
     "name": "Reverie Hacks 2026",
@@ -110,14 +110,14 @@
     "mode": "online",
     "venue": "Online",
     "participation_criteria": "",
-    "prize_pool": "$2,208,664",
+    "prize_pool": "$3,047,814",
     "tags": [
       "devpost",
       "Beginner Friendly",
       "Machine Learning/AI",
       "Open Ended"
     ],
-    "scraped_at": "2026-08-22T01:07:18.173552"
+    "scraped_at": "2026-08-23T01:12:42.385080"
   },
   {
     "name": "AI Builders Hackathon",
@@ -137,7 +137,7 @@
       "Open Ended",
       "Beginner Friendly"
     ],
-    "scraped_at": "2026-08-22T01:07:18.173566"
+    "scraped_at": "2026-08-23T01:12:42.385098"
   },
   {
     "name": "Africa Deep Tech Challenge 2026",
@@ -156,7 +156,7 @@
       "Machine Learning/AI",
       "Productivity"
     ],
-    "scraped_at": "2026-08-22T01:07:18.173577"
+    "scraped_at": "2026-08-23T01:12:42.385114"
   },
   {
     "name": "VoltHacks",
@@ -176,7 +176,232 @@
       "Machine Learning/AI",
       "Beginner Friendly"
     ],
-    "scraped_at": "2026-08-22T01:07:18.173591"
+    "scraped_at": "2026-08-23T01:12:42.385131"
+  },
+  {
+    "name": "Full Stack Python with Gen-AI",
+    "source": "unstop",
+    "url": "https://unstop.com/hackathons/full-stack-python-with-gen-ai-quality-thought-info-systems-1742888",
+    "start_date": "2026-08-26T00:00:00",
+    "end_date": "2026-08-26T00:00:00",
+    "registration_deadline": null,
+    "description": "Free Demo: Full Stack Python with Gen-AI Training in Hyderabad &mdash; 26 August 2026 The developers being hired today aren't just writing code. They're building applications that use AI &mdash; and doing it in Python. Quality Thought &ndash; Software Training Institute is conducting a FREE demo on Full Stack Python with Gen-AI on 26 August 2026 from 10:30 AM onwards, available both online and offline. It's a no-cost session to see exactly what the course covers, how it's taught, and whether it ",
+    "mode": "online",
+    "venue": "",
+    "participation_criteria": "{\"sector\":[\"fresher\",\"students\",\"corporates\"],\"engineering\":[],\"bSchools\":[],\"arts\":[],\"medicine\":[],\"law\":[],\"others\":[\"all\"],\"experience\":[\"all\"],\"studentPassoutYearsSelected\":[\"all\"],\"fresherPassoutYearsSelected\":[\"all\"],\"schoolFilteredClasses\":[\"all\"],\"minMarks\":{\"high_school_perc\":0,\"high_school_cgpa\":0},\"locations\":[],\"location_type\":\"all\",\"professionalEligibility\":{\"engineering\":[],\"bSchools\":[],\"arts\":[],\"medicine\":[],\"law\":[]},\"fresherEligibility\":{\"engineering\":[],\"bSchools\":[],\"arts\":",
+    "prize_pool": "",
+    "tags": [
+      "unstop",
+      "Artificial Intelligence (AI)",
+      "JavaScript",
+      "Python",
+      "SQL",
+      "API Development (REST)",
+      "online_coding_challenge"
+    ],
+    "scraped_at": "2026-08-23T01:12:45.513799"
+  },
+  {
+    "name": "TurtleBot Pursuit & Evasion Challenge",
+    "source": "unstop",
+    "url": "https://unstop.com/hackathons/turtlebot-pursuit-evasion-challenge-tech-zephyr-40-indian-institute-of-technology-bhubaneswar-1742795",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "description": "TurtleBot Pursuit &amp; Evasion Challenge:  The TurtleBot Pursuit &amp; Evasion Challenge is an autonomous robotics competition that puts participants' skills in robotics simulation, path planning, autonomous navigation, decision-making, and pursuit-evasion algorithms to the test. Participants will develop two autonomous algorithms:  Catcher: Locate, pursue, and capture the Runner as quickly as possible. Runner: Evade the Catcher and survive for the complete duration of the match.   The competit",
+    "mode": "online",
+    "venue": "",
+    "participation_criteria": "",
+    "prize_pool": "Winner: $12000, 1st runner up: $8000, 2nd runner up: $5000",
+    "tags": [
+      "unstop",
+      "Robot Operating System (ROS)",
+      "Robotics Simulation (Gazebo)",
+      "Robotics Path Planning",
+      "Decision Making",
+      "online_coding_challenge"
+    ],
+    "scraped_at": "2026-08-23T01:12:45.516197"
+  },
+  {
+    "name": "Agentic AI Hackathon",
+    "source": "unstop",
+    "url": "https://unstop.com/hackathons/agentic-ai-hackathon-tech-zephyr-40-indian-institute-of-technology-bhubaneswar-1742838",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "description": "Agentic AI Hackathon Tech Zephyr 4.0 | IIT Bhubaneswar Build AI Systems That Act, Adapt, and Execute. Most AI applications stop when the model generates an answer.This hackathon asks you to build systems that don't. The Agentic AI Hackathon challenges participants to develop AI systems capable of pursuing a goal through multi-step decision-making, tool interction, adaptation, and autonomous execution. Join the Whatsapp Group: https://chat.whatsapp.com/ICbOuGu5tLB3BiKVtZO0oi?s=cl&amp;p=a&amp;ilr=",
+    "mode": "online",
+    "venue": "",
+    "participation_criteria": "",
+    "prize_pool": "Winner: $16000, 1st Runner Up: $12000, 2nd Ruuner Up: $7000",
+    "tags": [
+      "unstop",
+      "Artificial Intelligence (AI)",
+      "Machine Learning Concepts",
+      "Python",
+      "System Architecture",
+      "online_coding_challenge"
+    ],
+    "scraped_at": "2026-08-23T01:12:45.518342"
+  },
+  {
+    "name": "Math-O-Stellar",
+    "source": "unstop",
+    "url": "https://unstop.com/hackathons/math-o-stellar-tech-zephyr-40-indian-institute-of-technology-bhubaneswar-1742777",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "description": "Rules and Guidelines for the Non-Routine Mathematics Competition:  Welcome to the Online Non-Routine Mathematics Competition. This event aims to challenge your mathematical thinking beyond the standard curriculum. The problems in this competition are designed to test creativity, logical reasoning, pattern recognition, and problem-solving skills. They are non-routine in nature, which means they will require insight, persistence, and sometimes a touch of ingenuity to solve. This is not a test of m",
+    "mode": "online",
+    "venue": "",
+    "participation_criteria": "",
+    "prize_pool": "Winner: Certificate, 1st Runner Up: Certificate, 2nd Runner Up: Certificate",
+    "tags": [
+      "unstop",
+      "Mathematical Skills",
+      "Pattern Recognition",
+      "Logical Reasoning",
+      "Problem Solving",
+      "Critical Thinking",
+      "online_coding_challenge"
+    ],
+    "scraped_at": "2026-08-23T01:12:45.521157"
+  },
+  {
+    "name": "CADathon",
+    "source": "unstop",
+    "url": "https://unstop.com/hackathons/cadathon-tech-zephyr-40-indian-institute-of-technology-bhubaneswar-1742714",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "description": "Overview: CADathon is a competitive Computer-Aided Design challenge that tests participants on 3D CAD modelling accuracy, speed, precision, and problem-solving ability. Participants will be challenged to recreate given 3D models within a limited time, with the difficulty increasing as the competition progresses. Participants are free to use any CAD software of their choice, provided they can submit the required model files and measurements in the specified format.  WhatsApp link :- https://chat.",
+    "mode": "online",
+    "venue": "",
+    "participation_criteria": "",
+    "prize_pool": "Winner: $12000, 1st runner up: $8000, 2nd runner up: $5000",
+    "tags": [
+      "unstop",
+      "Computer-Aided Design (CAD)",
+      "3D Modeling Techniques",
+      "Attention to Detail",
+      "Time Management and Organization",
+      "Problem Solving",
+      "online_coding_challenge"
+    ],
+    "scraped_at": "2026-08-23T01:12:45.522660"
+  },
+  {
+    "name": "Graviton",
+    "source": "unstop",
+    "url": "https://unstop.com/hackathons/graviton-iste-cgc-university-1742794",
+    "start_date": "2026-10-01T00:00:00",
+    "end_date": "2026-10-01T00:00:00",
+    "registration_deadline": null,
+    "description": "GRAVITON &mdash; Where AI Meets the Final Frontier GRAVITON is the flagship hackathon of CGC University and one of the most ambitious student-led hackathons in North India, bringing together developers, designers, innovators, entrepreneurs, and problem-solvers to build the future with Artificial Intelligence, emerging technologies, and space-inspired innovation. Hosted at CGC University, GRAVITON is organized by the ISTE Student Chapter, CGC University. The event challenges participants to think",
+    "mode": "in-person",
+    "venue": "Mohali, Punjab, India",
+    "participation_criteria": "{\"sector\":[\"students\"],\"engineering\":[],\"bSchools\":[],\"arts\":[],\"medicine\":[],\"law\":[],\"others\":[\"all\"],\"experience\":[\"all\"],\"studentPassoutYearsSelected\":[\"all\"],\"fresherPassoutYearsSelected\":[\"all\"],\"schoolFilteredClasses\":[\"all\"],\"minMarks\":{\"high_school_perc\":0,\"high_school_cgpa\":0},\"locations\":[],\"location_type\":\"all\",\"professionalEligibility\":{\"engineering\":[],\"bSchools\":[],\"arts\":[],\"medicine\":[],\"law\":[]},\"fresherEligibility\":{\"engineering\":[],\"bSchools\":[],\"arts\":[],\"medicine\":[],\"law\":",
+    "prize_pool": "The Supernova: $75000, The Nebula: $40000, The Cosmic Pioneer: $20000",
+    "tags": [
+      "unstop",
+      "Aerospace Industry Knowledge",
+      "Artificial Intelligence (AI)",
+      "Innovation Management",
+      "Machine Learning Concepts",
+      "Software Development Life Cycle (SDLC)",
+      "online_coding_challenge"
+    ],
+    "scraped_at": "2026-08-23T01:12:45.524222"
+  },
+  {
+    "name": "Design Marathon",
+    "source": "unstop",
+    "url": "https://unstop.com/hackathons/design-marathon-indian-institute-of-technology-bhubaneswar-1742740",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "description": "All that you need to know about&nbsp;Design Marathon   General Rules &amp; Guidelines  Participants can register individually or in teams (maximum of 2&nbsp;members per team). The design theme and problem statements will be announced at the start of the event. Use of third-party design tools, assets, and libraries (e.g., stock images, fonts, UI kits) is allowed but must be disclosed. AI-generated designs/assets are permitted only if disclosed and properly credited.  Team Formation:  Each team mu",
+    "mode": "online",
+    "venue": "",
+    "participation_criteria": "",
+    "prize_pool": "Winner: $12000, 1st Runner Up: $8000, 2nd Runner Up: $5000",
+    "tags": [
+      "unstop",
+      "Adobe Illustrator",
+      "Adobe Photoshop",
+      "Adobe XD",
+      "Branding",
+      "UI/UX Design",
+      "online_coding_challenge"
+    ],
+    "scraped_at": "2026-08-23T01:12:45.525621"
+  },
+  {
+    "name": "CP Contest",
+    "source": "unstop",
+    "url": "https://unstop.com/hackathons/cp-contest-indian-institute-of-technology-bhubaneswar-1742751",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "description": "Title: Tech Zephyr 4.0 CP Contest &mdash; IIT Bhubaneswar Participation Type: Individual (1 Member) Eligibility: Open to all college students. About the Competition: Welcome to the Tech Zephyr CP Contest! Get ready to test your algorithmic thinking, problem-solving speed, and coding proficiency. This competitive programming contest is designed to push your limits with a series of challenging problems ranging from basic data structures to advanced algorithms. Whether you are a seasoned competitiv",
+    "mode": "online",
+    "venue": "",
+    "participation_criteria": "",
+    "prize_pool": "Winner: Certificate, First Runner Up: Certificate, 2nd Runner Up: Certificate",
+    "tags": [
+      "unstop",
+      "C++ Programming Language",
+      "Python",
+      "Java",
+      "Problem Solving",
+      "online_coding_challenge"
+    ],
+    "scraped_at": "2026-08-23T01:12:45.526767"
+  },
+  {
+    "name": "ML Hackathon",
+    "source": "unstop",
+    "url": "https://unstop.com/hackathons/ml-hackathon-indian-institute-of-technology-bhubaneswar-1742732",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "description": " This hackathon is designed to challenge participants on their machine learning knowledge and practical skills through two rounds - one online and one offline. Join the Whatsapp Group: https://chat.whatsapp.com/F4KuIZwI5048xhPmcSHicj?s=cl&amp;p=a&amp;ilr=1  Eligibility:  Open to all college students. Participants can form teams of up to 4 members.  Round 1: Online Quiz:  All registered participants must attempt an online, time-bound quiz covering core machine learning concepts. The quiz must be ",
+    "mode": "online",
+    "venue": "",
+    "participation_criteria": "",
+    "prize_pool": "Winner: $16000, 1st Runner Up: $12000, 2nd Runner Up: $7000",
+    "tags": [
+      "unstop",
+      "Machine Learning Concepts",
+      "Python",
+      "Data Analysis Tools",
+      "online_coding_challenge"
+    ],
+    "scraped_at": "2026-08-23T01:12:45.528537"
+  },
+  {
+    "name": "Web Hackathon",
+    "source": "unstop",
+    "url": "https://unstop.com/hackathons/web-hackathon-indian-institute-of-technology-bhubaneswar-1742721",
+    "start_date": "2026-09-12T00:00:00",
+    "end_date": "2026-09-13T00:00:00",
+    "registration_deadline": null,
+    "description": "Tech Zephyr 4.0 &mdash; Web Hackathon:  Welcome to Tech Zephyr 4.0 &mdash; Web Hackathon, an exciting competitive event organized by IIT Bhubaneswar. This isn't your typical hackathon. Participants will be challenged to design, develop, and deploy a complete website while working under strict time constraints. From creating an engaging user experience to implementing functional backend systems, participants will need to combine creativity, problem-solving, and technical skills to build a complet",
+    "mode": "online",
+    "venue": "",
+    "participation_criteria": "",
+    "prize_pool": "Winner: $16000, 1st Runner Up: $12000, 2nd Runner Up: $7000",
+    "tags": [
+      "unstop",
+      "Web Application Security Testing",
+      "Website troubleshooting",
+      "UI/UX Design",
+      "Storytelling",
+      "Problem Solving",
+      "online_coding_challenge"
+    ],
+    "scraped_at": "2026-08-23T01:12:45.530352"
   },
   {
     "name": "Innovation Unbound Prelims",
@@ -185,7 +410,7 @@
     "start_date": null,
     "end_date": null,
     "registration_deadline": null,
-    "description": "Innovation Unbound Innovation Unbound is a technology-driven hackathon focused on building practical solutions at the intersection of banking, financial inclusion, sustainability, and social impact. Participants will explore real-world challenges faced by startups, MSMEs, entrepreneurs, and underserved communities and develop innovative solutions using AI/ML, automation, APIs, predictive analytics, and other emerging technologies. Round 1 &mdash; Innovation Snapshot Participants will choose any ",
+    "description": "Innovation Unbound Innovation Unbound is a technology-driven hackathon focused on building practical solutions at the intersection of banking, financial inclusion, sustainability, and social impact. Participants will explore real-world challenges faced by startups, MSMEs, entrepreneurs, and underserved communities and develop innovative solutions using AI/ML, automation, APIs, predictive analytics, and other emerging technologies.WhatsApp Group for Participants: https://chat.whatsapp.com/BWt6iq7",
     "mode": "in-person",
     "venue": "Chennai, Tamil Nadu, India",
     "participation_criteria": "{\"sector\":[\"students\"],\"engineering\":[\"allCourses\",{\"course\":\"btech\",\"type\":\"engineering\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":4},{\"course\":\"mtech\",\"type\":\"engineering\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":2},{\"course\":\"integrated\",\"type\":\"engineering\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":5},{\"course\":\"engOthers\",\"type\":\"engineering\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"]",
@@ -198,7 +423,7 @@
       "Banking Industry Knowledge",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.017461"
+    "scraped_at": "2026-08-23T01:12:45.531342"
   },
   {
     "name": "Code O' Fiesta Prelims",
@@ -207,7 +432,7 @@
     "start_date": null,
     "end_date": null,
     "registration_deadline": null,
-    "description": "Code-O-Fiesta Code-O-Fiesta is a unique and exciting competitive programming and problem-solving event designed to challenge participants on their coding skills, logical thinking, algorithms, and technical knowledge through multiple rounds. Round 1 &mdash; Online Quiz The first round will be conducted online through Unstop.  10 Questions 10 Minutes Questions covering programming, computer science, algorithms, logic, and technical concepts Top-performing participants will be shortlisted for the o",
+    "description": "Code-O-Fiesta Code-O-Fiesta is a unique and exciting competitive programming and problem-solving event designed to challenge participants on their coding skills, logical thinking, algorithms, and technical knowledge through multiple rounds.WhatsApp Group for Participants: https://chat.whatsapp.com/KtifqEuP3VIBOVNKY7sImN Round 1 &mdash; Online Quiz The first round will be conducted online through Unstop.  10 Questions 10 Minutes Questions covering programming, computer science, algorithms, logic,",
     "mode": "in-person",
     "venue": "Chennai, Tamil Nadu, India",
     "participation_criteria": "{\"sector\":[\"students\"],\"engineering\":[\"allCourses\",{\"course\":\"btech\",\"type\":\"engineering\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":4},{\"course\":\"mtech\",\"type\":\"engineering\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":2},{\"course\":\"integrated\",\"type\":\"engineering\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":5},{\"course\":\"engOthers\",\"type\":\"engineering\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"]",
@@ -218,7 +443,7 @@
       "Problem Solving",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.018083"
+    "scraped_at": "2026-08-23T01:12:45.532160"
   },
   {
     "name": "HackRonyX 2.0",
@@ -240,7 +465,7 @@
       "Problem Solving",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.019681"
+    "scraped_at": "2026-08-23T01:12:45.534213"
   },
   {
     "name": "Innov8 4.0: A Hackathon by Eightfold Ai X Aries IIT Delhi",
@@ -263,7 +488,7 @@
       "Data Analysis Tools",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.020706"
+    "scraped_at": "2026-08-23T01:12:45.535530"
   },
   {
     "name": "Eureka x Devengers",
@@ -283,7 +508,7 @@
       "Business Planning",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.021940"
+    "scraped_at": "2026-08-23T01:12:45.537234"
   },
   {
     "name": "Horizon",
@@ -304,7 +529,7 @@
       "Problem Solving",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.023399"
+    "scraped_at": "2026-08-23T01:12:45.539320"
   },
   {
     "name": "EC-Council HackAI Challenge: RACEx360",
@@ -327,7 +552,7 @@
       "Ethical Hacking",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.024098"
+    "scraped_at": "2026-08-23T01:12:45.540270"
   },
   {
     "name": "Codearambh 2.0 \u2013 24-Hour National-Level Hackathon: Dare to Code, Dare to Create",
@@ -349,7 +574,7 @@
       "Artificial Intelligence (AI)",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.024758"
+    "scraped_at": "2026-08-23T01:12:45.541242"
   },
   {
     "name": "The Frontend Odyssey 2026",
@@ -370,7 +595,7 @@
       "HTML",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.025660"
+    "scraped_at": "2026-08-23T01:12:45.542474"
   },
   {
     "name": "AI Product Hackathon",
@@ -393,7 +618,7 @@
       "Problem Solving",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.026361"
+    "scraped_at": "2026-08-23T01:12:45.543402"
   },
   {
     "name": "Data Analytics Hackathon",
@@ -414,7 +639,7 @@
       "Data Cleaning",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.027296"
+    "scraped_at": "2026-08-23T01:12:45.544635"
   },
   {
     "name": "Innovest 3.0",
@@ -435,7 +660,7 @@
       "Product Demonstration",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.029149"
+    "scraped_at": "2026-08-23T01:12:45.547097"
   },
   {
     "name": "ELUCode-2",
@@ -456,7 +681,7 @@
       "Problem Solving",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.029694"
+    "scraped_at": "2026-08-23T01:12:45.547819"
   },
   {
     "name": "Hackwave 3.0 - 2026",
@@ -478,27 +703,7 @@
       "Artificial Intelligence (AI)",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.030389"
-  },
-  {
-    "name": "Cloudforge",
-    "source": "unstop",
-    "url": "https://unstop.com/hackathons/cloudforge-atal-bihari-vajpayee-indian-institute-of-information-technology-and-management-1741840",
-    "start_date": null,
-    "end_date": null,
-    "registration_deadline": null,
-    "description": "This is an inter-college hackathon, aimed at encouraging students to build innovative, practical, and impactful solutions using modern technologies, including cloud computing, Artificial Intelligence, Generative AI, Web Development, Data Science, Cybersecurity, and other emerging technologies.Kindly register on Student Builder Group for smooth conduction: Student Builder GroupClick for Tracks and problem Statements: Problem Statements Eligibility  Open to currently enrolled college/university st",
-    "mode": "online",
-    "venue": "",
-    "participation_criteria": "",
-    "prize_pool": "Top Submissions: $120000",
-    "tags": [
-      "unstop",
-      "Artificial Intelligence (AI)",
-      "Cloud computing",
-      "online_coding_challenge"
-    ],
-    "scraped_at": "2026-08-22T01:07:22.031318"
+    "scraped_at": "2026-08-23T01:12:45.548742"
   },
   {
     "name": "Identity under Attack",
@@ -520,7 +725,7 @@
       "Logical Reasoning",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.032181"
+    "scraped_at": "2026-08-23T01:12:45.549861"
   },
   {
     "name": "Ignition Hackathon Series 2026",
@@ -543,7 +748,7 @@
       "Machine Learning Concepts",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.033162"
+    "scraped_at": "2026-08-23T01:12:45.551170"
   },
   {
     "name": "Deepsprint Hackathon",
@@ -561,7 +766,7 @@
       "unstop",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.033588"
+    "scraped_at": "2026-08-23T01:12:45.551725"
   },
   {
     "name": "Crew Assemble \u2014 Build, Battle & Conquer",
@@ -581,7 +786,7 @@
       "Problem Solving",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.034371"
+    "scraped_at": "2026-08-23T01:12:45.552753"
   },
   {
     "name": "The Lost Algorithm (DSA)",
@@ -602,7 +807,7 @@
       "Problem Solving",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.036170"
+    "scraped_at": "2026-08-23T01:12:45.555033"
   },
   {
     "name": "Rebuild the Classroom : Build the tool that teaches when AI is the teacher.",
@@ -625,7 +830,7 @@
       "Critical Thinking",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.038494"
+    "scraped_at": "2026-08-23T01:12:45.558077"
   },
   {
     "name": "The Agents' Bounty \u2013 AI Agent Build Challenge",
@@ -647,7 +852,7 @@
       "Problem Solving",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.039813"
+    "scraped_at": "2026-08-23T01:12:45.559836"
   },
   {
     "name": "RuleBound: The Sealed Build Challenge",
@@ -667,7 +872,7 @@
       "Computer-Aided Design (CAD)",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.041121"
+    "scraped_at": "2026-08-23T01:12:45.561578"
   },
   {
     "name": "DataForge 2026",
@@ -690,7 +895,7 @@
       "Data Analytics Tools",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.042034"
+    "scraped_at": "2026-08-23T01:12:45.562771"
   },
   {
     "name": "Innovators Guild Hackathon",
@@ -713,7 +918,7 @@
       "Problem Solving",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.042572"
+    "scraped_at": "2026-08-23T01:12:45.563474"
   },
   {
     "name": "Code to Creation (Project Submission)",
@@ -735,7 +940,7 @@
       "HTML",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.042954"
+    "scraped_at": "2026-08-23T01:12:45.563967"
   },
   {
     "name": "Captain\u2019s Code \u2013 Blind Typing Challenge",
@@ -756,7 +961,7 @@
       "Typing Speed",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.044073"
+    "scraped_at": "2026-08-23T01:12:45.565398"
   },
   {
     "name": "HackCelestial 3.0",
@@ -779,7 +984,7 @@
       "Software Development Life Cycle (SDLC)",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.045796"
+    "scraped_at": "2026-08-23T01:12:45.567656"
   },
   {
     "name": "CSI KJSSE Hackday 2.0",
@@ -801,7 +1006,7 @@
       "Problem Solving",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.046276"
+    "scraped_at": "2026-08-23T01:12:45.568290"
   },
   {
     "name": "Code-X-Novas Innovathon 2026 \u2013 National Software, AI Hackathon",
@@ -824,7 +1029,7 @@
       "Problem Solving",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.049183"
+    "scraped_at": "2026-08-23T01:12:45.572069"
   },
   {
     "name": "Manufacture Your Dream: RC Car Building and Racing",
@@ -847,7 +1052,7 @@
       "Problem Solving",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.050012"
+    "scraped_at": "2026-08-23T01:12:45.573173"
   },
   {
     "name": "Battlecode",
@@ -869,7 +1074,7 @@
       "Problem Solving",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.050796"
+    "scraped_at": "2026-08-23T01:12:45.574194"
   },
   {
     "name": "Celestia 2.0",
@@ -890,7 +1095,7 @@
       "Teamwork and Collaboration",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.051685"
+    "scraped_at": "2026-08-23T01:12:45.575358"
   },
   {
     "name": "WE Hack 5.0",
@@ -913,7 +1118,7 @@
       "Embedded Systems Design",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.052663"
+    "scraped_at": "2026-08-23T01:12:45.576631"
   },
   {
     "name": "What The Flag",
@@ -933,7 +1138,7 @@
       "Digital Forensics",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.053476"
+    "scraped_at": "2026-08-23T01:12:45.577689"
   },
   {
     "name": "Hackathon 4.0",
@@ -956,7 +1161,7 @@
       "Product Roadmapping",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.054606"
+    "scraped_at": "2026-08-23T01:12:45.579162"
   },
   {
     "name": "E.ON Future Makers Challenge",
@@ -977,7 +1182,7 @@
       "Energy Industry Knowledge",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.058059"
+    "scraped_at": "2026-08-23T01:12:45.583567"
   },
   {
     "name": "HackOut'26",
@@ -1000,7 +1205,7 @@
       "Problem Solving",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.059090"
+    "scraped_at": "2026-08-23T01:12:45.584834"
   },
   {
     "name": "MOSIP Decode 2026",
@@ -1023,7 +1228,7 @@
       "Communication",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.061199"
+    "scraped_at": "2026-08-23T01:12:45.587414"
   },
   {
     "name": "ONE HACK: 8 Hours AI & Web3 Hackathon",
@@ -1043,7 +1248,7 @@
       "Blockchain Technology",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.062789"
+    "scraped_at": "2026-08-23T01:12:45.589361"
   },
   {
     "name": "AUREX'26 - Classical Tamil's First Lingual Tech Hackathon",
@@ -1062,7 +1267,7 @@
       "Artificial Intelligence (AI)",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.063434"
+    "scraped_at": "2026-08-23T01:12:45.590219"
   },
   {
     "name": "z0d1ak CTF",
@@ -1082,7 +1287,7 @@
       "Reverse Engineering",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.064289"
+    "scraped_at": "2026-08-23T01:12:45.591299"
   },
   {
     "name": "The Pirate\u2019s Flag \u2013 Capture the Flag Challenge",
@@ -1102,7 +1307,7 @@
       "Reverse Engineering",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.065379"
+    "scraped_at": "2026-08-23T01:12:45.592545"
   },
   {
     "name": "Quantum Alpha",
@@ -1123,7 +1328,7 @@
       "Risk Analysis",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.066091"
+    "scraped_at": "2026-08-23T01:12:45.593466"
   },
   {
     "name": "Matrix 2026",
@@ -1146,7 +1351,7 @@
       "Problem Solving",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.066610"
+    "scraped_at": "2026-08-23T01:12:45.594122"
   },
   {
     "name": "AI Innovation Hackathon 2026 \u2013 Build Real-World AI Solutions",
@@ -1168,7 +1373,7 @@
       "Software Development Life Cycle (SDLC)",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.067336"
+    "scraped_at": "2026-08-23T01:12:45.595011"
   },
   {
     "name": "Gameathon 2026",
@@ -1191,7 +1396,7 @@
       "Problem Solving",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.069022"
+    "scraped_at": "2026-08-23T01:12:45.597176"
   },
   {
     "name": "Mirage CTF 2.0",
@@ -1212,7 +1417,7 @@
       "Open Source Intelligence (OSINT)",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.070166"
+    "scraped_at": "2026-08-23T01:12:45.598704"
   },
   {
     "name": "Nari Kavach",
@@ -1233,7 +1438,7 @@
       "Internet of Things (IoT)",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.071738"
+    "scraped_at": "2026-08-23T01:12:45.600751"
   },
   {
     "name": "NexHack 2.0",
@@ -1255,7 +1460,7 @@
       "Problem Solving",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.072631"
+    "scraped_at": "2026-08-23T01:12:45.601949"
   },
   {
     "name": "VakyaBhed",
@@ -1277,7 +1482,7 @@
       "Ethical Hacking",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.073505"
+    "scraped_at": "2026-08-23T01:12:45.603104"
   },
   {
     "name": "Innovik 6.0 \u2013 International Hackathon 2026",
@@ -1300,7 +1505,7 @@
       "Natural Language Processing (NLP)",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.074563"
+    "scraped_at": "2026-08-23T01:12:45.604491"
   },
   {
     "name": "Hackathon to Solve India's Garbage Problem",
@@ -1323,7 +1528,7 @@
       "Mobile Application Development",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.075113"
+    "scraped_at": "2026-08-23T01:12:45.605175"
   },
   {
     "name": "Code Voyage",
@@ -1346,7 +1551,7 @@
       "Problem Solving",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.075466"
+    "scraped_at": "2026-08-23T01:12:45.605619"
   },
   {
     "name": "Legend of the Treasure (Takara No Densetsu)",
@@ -1369,7 +1574,7 @@
       "Time Management and Organization",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.075947"
+    "scraped_at": "2026-08-23T01:12:45.606228"
   },
   {
     "name": "Signal Quest \u2013 IEEE SPS Hackathon 2026",
@@ -1392,7 +1597,7 @@
       "Presentation Design",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.077177"
+    "scraped_at": "2026-08-23T01:12:45.607837"
   },
   {
     "name": "DevJams'26",
@@ -1415,7 +1620,7 @@
       "Problem Solving",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.078184"
+    "scraped_at": "2026-08-23T01:12:45.609071"
   },
   {
     "name": "Breakpoint Hackathon 2026",
@@ -1438,7 +1643,7 @@
       "Technical Communication",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.079514"
+    "scraped_at": "2026-08-23T01:12:45.610685"
   },
   {
     "name": "BSM Agentic AI Competition",
@@ -1460,7 +1665,7 @@
       "Problem Solving",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.080993"
+    "scraped_at": "2026-08-23T01:12:45.612592"
   },
   {
     "name": "Internal Smart India Hackathon 2026",
@@ -1483,7 +1688,7 @@
       "Problem Solving",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.081769"
+    "scraped_at": "2026-08-23T01:12:45.613533"
   },
   {
     "name": "InfiniX'26 \u2013 National Level 32-Hour Hackathon",
@@ -1503,7 +1708,7 @@
       "Problem Solving",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.083412"
+    "scraped_at": "2026-08-23T01:12:45.615659"
   },
   {
     "name": "Idea Competition 2026",
@@ -1525,7 +1730,7 @@
       "Strategic Thinking",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.084988"
+    "scraped_at": "2026-08-23T01:12:45.617610"
   },
   {
     "name": "ZYRORA - 24-Hour National Level Inter-College  Hackathon",
@@ -1548,7 +1753,7 @@
       "Problem Solving",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.085484"
+    "scraped_at": "2026-08-23T01:12:45.618253"
   },
   {
     "name": "Washing App Debug Challenge",
@@ -1571,7 +1776,7 @@
       "Problem Solving",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.085877"
+    "scraped_at": "2026-08-23T01:12:45.618752"
   },
   {
     "name": "StartupX Hackathon 2026",
@@ -1594,7 +1799,7 @@
       "Confidentiality Management",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.089038"
+    "scraped_at": "2026-08-23T01:12:45.622824"
   },
   {
     "name": "Zero Dependency | 72-Hour Hackathon",
@@ -1617,7 +1822,7 @@
       "System Architecture",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.091383"
+    "scraped_at": "2026-08-23T01:12:45.625668"
   },
   {
     "name": "Webverse Hackathon",
@@ -1636,7 +1841,7 @@
       "Artificial Intelligence (AI)",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.092660"
+    "scraped_at": "2026-08-23T01:12:45.627319"
   },
   {
     "name": "Precision Care Challenge 2026",
@@ -1659,7 +1864,7 @@
       "Problem Solving",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.094148"
+    "scraped_at": "2026-08-23T01:12:45.629155"
   },
   {
     "name": "Aethon 2026 | 24-Hour National Hackathon",
@@ -1682,7 +1887,7 @@
       "Machine Learning Concepts",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.095102"
+    "scraped_at": "2026-08-23T01:12:45.630387"
   },
   {
     "name": "Edge AI Hackathon 2026",
@@ -1705,7 +1910,7 @@
       "FPGA Design",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.095891"
+    "scraped_at": "2026-08-23T01:12:45.631409"
   },
   {
     "name": "BharatBuild: A Low-code Hackathon",
@@ -1726,7 +1931,7 @@
       "Problem Solving",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.097218"
+    "scraped_at": "2026-08-23T01:12:45.633129"
   },
   {
     "name": "Pasumai Hackathon",
@@ -1748,7 +1953,7 @@
       "Waste Management",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.098064"
+    "scraped_at": "2026-08-23T01:12:45.634222"
   },
   {
     "name": "NextGen Hackathon",
@@ -1771,7 +1976,7 @@
       "Problem Solving",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.098926"
+    "scraped_at": "2026-08-23T01:12:45.635235"
   },
   {
     "name": "Hackblox AI & Open Source Hackathon",
@@ -1793,7 +1998,7 @@
       "Problem Solving",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.100733"
+    "scraped_at": "2026-08-23T01:12:45.637419"
   },
   {
     "name": "Bitmela Launchpad: Ideathon 01",
@@ -1816,7 +2021,7 @@
       "Blockchain Technology",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.101343"
+    "scraped_at": "2026-08-23T01:12:45.638225"
   },
   {
     "name": "Resolve'26 \u2014 National-Level Game Jam",
@@ -1839,7 +2044,7 @@
       "Unreal Engine",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.104144"
+    "scraped_at": "2026-08-23T01:12:45.641907"
   },
   {
     "name": "VELOHACK 2k26: 24 Hour International Hackathon",
@@ -1862,7 +2067,7 @@
       "Problem Solving",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.105297"
+    "scraped_at": "2026-08-23T01:12:45.643487"
   },
   {
     "name": "SuperNova Hackathon",
@@ -1882,7 +2087,7 @@
       "Internet of Things (IoT)",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.106681"
+    "scraped_at": "2026-08-23T01:12:45.645264"
   },
   {
     "name": "Build $ Bank",
@@ -1902,7 +2107,7 @@
       "Fintech",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.107337"
+    "scraped_at": "2026-08-23T01:12:45.646144"
   },
   {
     "name": "Binary Hacks 4.0",
@@ -1920,7 +2125,7 @@
       "unstop",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.107836"
+    "scraped_at": "2026-08-23T01:12:45.646801"
   },
   {
     "name": "Orvix Hackathon",
@@ -1941,7 +2146,7 @@
       "Blockchain Technology",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.108688"
+    "scraped_at": "2026-08-23T01:12:45.647911"
   },
   {
     "name": "The Chandigarh Police Hackathon",
@@ -1963,7 +2168,7 @@
       "Open Source Intelligence (OSINT)",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.110061"
+    "scraped_at": "2026-08-23T01:12:45.649665"
   },
   {
     "name": "AETHOS - Day Zero",
@@ -1986,7 +2191,7 @@
       "Design Systems",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.111255"
+    "scraped_at": "2026-08-23T01:12:45.651181"
   },
   {
     "name": "ML Bubble 2026 \u2013 Machine Learning Awareness & Skill Building Challenge",
@@ -2009,7 +2214,7 @@
       "Problem Solving",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.111966"
+    "scraped_at": "2026-08-23T01:12:45.652089"
   },
   {
     "name": "CodeSprint 2.O : One Shot Challenge",
@@ -2032,7 +2237,7 @@
       "Problem Solving",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.112386"
+    "scraped_at": "2026-08-23T01:12:45.652620"
   },
   {
     "name": "Techno Vbiquity 2.O \u2013 Technical Coding Competition",
@@ -2055,7 +2260,7 @@
       "Problem Solving",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.113035"
+    "scraped_at": "2026-08-23T01:12:45.653460"
   },
   {
     "name": "Y-Hack'26 \u2013 24-Hour National Hackathon",
@@ -2078,7 +2283,7 @@
       "Robot Operating System (ROS)",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.114556"
+    "scraped_at": "2026-08-23T01:12:45.655452"
   },
   {
     "name": "Morrow 1.0",
@@ -2101,7 +2306,7 @@
       "Problem Solving",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.114956"
+    "scraped_at": "2026-08-23T01:12:45.655972"
   },
   {
     "name": "FusioniX'26",
@@ -2124,7 +2329,7 @@
       "Technical Presentations",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.117012"
+    "scraped_at": "2026-08-23T01:12:45.658587"
   },
   {
     "name": "WebCraft24",
@@ -2147,7 +2352,7 @@
       "CSS",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.118290"
+    "scraped_at": "2026-08-23T01:12:45.660200"
   },
   {
     "name": "Code Forge 2026",
@@ -2170,7 +2375,7 @@
       "Artificial Intelligence (AI)",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.119124"
+    "scraped_at": "2026-08-23T01:12:45.661261"
   },
   {
     "name": "Paper Buddy EduVerse Hackathon 2026",
@@ -2189,7 +2394,7 @@
       "Artificial Intelligence (AI)",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.120634"
+    "scraped_at": "2026-08-23T01:12:45.663196"
   },
   {
     "name": "CraftVerse 2.0",
@@ -2212,7 +2417,7 @@
       "Critical Thinking",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.121449"
+    "scraped_at": "2026-08-23T01:12:45.664234"
   },
   {
     "name": "Hackfinity 3.0",
@@ -2233,7 +2438,7 @@
       "Problem Solving",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.123536"
+    "scraped_at": "2026-08-23T01:12:45.666880"
   },
   {
     "name": "CodeYourCult",
@@ -2256,7 +2461,7 @@
       "Innovation Management",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.125739"
+    "scraped_at": "2026-08-23T01:12:45.669731"
   },
   {
     "name": "Hacker's Gambit 2026",
@@ -2277,7 +2482,7 @@
       "Reverse Engineering",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.127351"
+    "scraped_at": "2026-08-23T01:12:45.671828"
   },
   {
     "name": "P.A.C.E - Where Logic Meets Expression.",
@@ -2300,7 +2505,7 @@
       "Time Management Techniques",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.127979"
+    "scraped_at": "2026-08-23T01:12:45.672615"
   },
   {
     "name": "Build With Bharat 3.0",
@@ -2323,7 +2528,7 @@
       "PowerPoint",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.129394"
+    "scraped_at": "2026-08-23T01:12:45.674457"
   },
   {
     "name": "IEEE HackSynapse 2026 National Level 36-Hours Hackathon",
@@ -2346,7 +2551,7 @@
       "Teamwork and Collaboration",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.132246"
+    "scraped_at": "2026-08-23T01:12:45.678221"
   },
   {
     "name": "Fugacity: Code the Problem",
@@ -2369,7 +2574,7 @@
       "Problem Solving",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.133011"
+    "scraped_at": "2026-08-23T01:12:45.679211"
   },
   {
     "name": "Build With Bharat 2.0",
@@ -2392,7 +2597,7 @@
       "Teamwork and Collaboration",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.134395"
+    "scraped_at": "2026-08-23T01:12:45.681007"
   },
   {
     "name": "Code Build 1.0",
@@ -2415,7 +2620,7 @@
       "PowerPoint",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.135834"
+    "scraped_at": "2026-08-23T01:12:45.682854"
   },
   {
     "name": "Hackside Down Hackathon",
@@ -2438,7 +2643,7 @@
       "Critical Thinking",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.136609"
+    "scraped_at": "2026-08-23T01:12:45.683838"
   },
   {
     "name": "Indradhanu: PCCOE International Grand Challenge 2026",
@@ -2461,7 +2666,7 @@
       "Artificial Intelligence (AI)",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.137267"
+    "scraped_at": "2026-08-23T01:12:45.684644"
   },
   {
     "name": "Hack Synthesis 3.0 - 2026",
@@ -2484,7 +2689,7 @@
       "Problem Solving",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.137915"
+    "scraped_at": "2026-08-23T01:12:45.685474"
   },
   {
     "name": "International Innovation Challenge 3.0",
@@ -2506,7 +2711,7 @@
       "Project Management",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.138967"
+    "scraped_at": "2026-08-23T01:12:45.686826"
   },
   {
     "name": "NeuraMorphix HackForge 2026",
@@ -2529,7 +2734,7 @@
       "Problem Solving",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.140380"
+    "scraped_at": "2026-08-23T01:12:45.688665"
   },
   {
     "name": "Breaking Bot IPEC",
@@ -2549,7 +2754,7 @@
       "Machine Learning Concepts",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.142218"
+    "scraped_at": "2026-08-23T01:12:45.690935"
   },
   {
     "name": "Grand Hack IPEC",
@@ -2571,7 +2776,7 @@
       "Internet of Things (IoT)",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.143466"
+    "scraped_at": "2026-08-23T01:12:45.692423"
   },
   {
     "name": "TNX Codathon",
@@ -2593,7 +2798,7 @@
       "Problem Solving",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.144599"
+    "scraped_at": "2026-08-23T01:12:45.693808"
   },
   {
     "name": "Null Origin - 24 Hour CTF Challenge",
@@ -2616,7 +2821,7 @@
       "Reverse Engineering",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.145169"
+    "scraped_at": "2026-08-23T01:12:45.694495"
   },
   {
     "name": "Tech Horizon 2.0 - National Level Hackathon",
@@ -2638,10 +2843,10 @@
       "Internet of Things (IoT)",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.146839"
+    "scraped_at": "2026-08-23T01:12:45.696653"
   },
   {
-    "name": "\"National Research & Innovation Challenge Season 3 by 3SVK \u2013 3.8K+  Registrations\"",
+    "name": "\"National Research & Innovation Challenge Season 3 by 3SVK \u2013 3.9K+  Registrations\"",
     "source": "unstop",
     "url": "https://unstop.com/hackathons/cloud-innovation-challenge-jawaharlal-nehru-technological-university-jntuh-hyderabad-1652247",
     "start_date": "2026-07-20T00:00:00",
@@ -2659,7 +2864,7 @@
       "Problem Solving",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.147763"
+    "scraped_at": "2026-08-23T01:12:45.697808"
   },
   {
     "name": "Clash of Coders 3.0",
@@ -2682,26 +2887,7 @@
       "Critical Thinking",
       "online_coding_challenge"
     ],
-    "scraped_at": "2026-08-22T01:07:22.149071"
-  },
-  {
-    "name": "Hefty-Hacks",
-    "source": "devfolio",
-    "url": "https://devfolio.co/hackathons/hefty-hacks",
-    "start_date": null,
-    "end_date": null,
-    "registration_deadline": null,
-    "description": "",
-    "mode": "online",
-    "venue": "",
-    "participation_criteria": "",
-    "prize_pool": "",
-    "tags": [
-      "devfolio",
-      "Blockchain",
-      "FinTech"
-    ],
-    "scraped_at": "2026-08-22T01:07:23.518540"
+    "scraped_at": "2026-08-23T01:12:45.699489"
   },
   {
     "name": "HackNex Season 2",
@@ -2719,7 +2905,7 @@
       "devfolio",
       "No Restrictions"
     ],
-    "scraped_at": "2026-08-22T01:07:23.518719"
+    "scraped_at": "2026-08-23T01:12:46.813389"
   },
   {
     "name": ".hack '26",
@@ -2737,7 +2923,7 @@
       "devfolio",
       "No Restrictions"
     ],
-    "scraped_at": "2026-08-22T01:07:23.518883"
+    "scraped_at": "2026-08-23T01:12:46.813617"
   },
   {
     "name": "FusioniX2026",
@@ -2755,7 +2941,7 @@
       "devfolio",
       "No Restrictions"
     ],
-    "scraped_at": "2026-08-22T01:07:23.519049"
+    "scraped_at": "2026-08-23T01:12:46.813841"
   },
   {
     "name": "The Great Agent Hackathon",
@@ -2773,45 +2959,7 @@
       "devfolio",
       "No Restrictions"
     ],
-    "scraped_at": "2026-08-22T01:07:23.519209"
-  },
-  {
-    "name": "Recursion Edition II",
-    "source": "devfolio",
-    "url": "https://devfolio.co/hackathons/recursion-edition",
-    "start_date": null,
-    "end_date": null,
-    "registration_deadline": null,
-    "description": "",
-    "mode": "in-person",
-    "venue": "",
-    "participation_criteria": "",
-    "prize_pool": "",
-    "tags": [
-      "devfolio",
-      "No Restrictions"
-    ],
-    "scraped_at": "2026-08-22T01:07:23.519368"
-  },
-  {
-    "name": "CodeStorm 2026: FutureForge",
-    "source": "devfolio",
-    "url": "https://devfolio.co/hackathons/codestorm-futureforge",
-    "start_date": null,
-    "end_date": null,
-    "registration_deadline": null,
-    "description": "",
-    "mode": "online",
-    "venue": "",
-    "participation_criteria": "",
-    "prize_pool": "",
-    "tags": [
-      "devfolio",
-      "Design",
-      "AI",
-      "Future Mobility"
-    ],
-    "scraped_at": "2026-08-22T01:07:23.519526"
+    "scraped_at": "2026-08-23T01:12:46.814050"
   },
   {
     "name": "ETHKochi",
@@ -2831,7 +2979,45 @@
       "AI",
       "Hardware"
     ],
-    "scraped_at": "2026-08-22T01:07:23.519692"
+    "scraped_at": "2026-08-23T01:12:46.814257"
+  },
+  {
+    "name": "Recursion Edition II",
+    "source": "devfolio",
+    "url": "https://devfolio.co/hackathons/recursion-edition",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "description": "",
+    "mode": "in-person",
+    "venue": "",
+    "participation_criteria": "",
+    "prize_pool": "",
+    "tags": [
+      "devfolio",
+      "No Restrictions"
+    ],
+    "scraped_at": "2026-08-23T01:12:46.814464"
+  },
+  {
+    "name": "CodeStorm 2026: FutureForge",
+    "source": "devfolio",
+    "url": "https://devfolio.co/hackathons/codestorm-futureforge",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "description": "",
+    "mode": "online",
+    "venue": "",
+    "participation_criteria": "",
+    "prize_pool": "",
+    "tags": [
+      "devfolio",
+      "Design",
+      "AI",
+      "Future Mobility"
+    ],
+    "scraped_at": "2026-08-23T01:12:46.814670"
   },
   {
     "name": "MUBA Blockchain Hackathon",
@@ -2851,7 +3037,7 @@
       "FinTech",
       "AI"
     ],
-    "scraped_at": "2026-08-22T01:07:23.519848"
+    "scraped_at": "2026-08-23T01:12:46.814885"
   },
   {
     "name": "VENTURE'26",
@@ -2869,7 +3055,7 @@
       "devfolio",
       "No Restrictions"
     ],
-    "scraped_at": "2026-08-22T01:07:23.520008"
+    "scraped_at": "2026-08-23T01:12:46.815088"
   },
   {
     "name": "Metamorph 2.0",
@@ -2889,7 +3075,7 @@
       "AI",
       "Hardware"
     ],
-    "scraped_at": "2026-08-22T01:07:23.520165"
+    "scraped_at": "2026-08-23T01:12:46.815291"
   },
   {
     "name": "HackVerse: Into the Web",
@@ -2907,25 +3093,7 @@
       "devfolio",
       "No Restrictions"
     ],
-    "scraped_at": "2026-08-22T01:07:23.520324"
-  },
-  {
-    "name": "HackSpire'26",
-    "source": "devfolio",
-    "url": "https://devfolio.co/hackathons/hackspire26",
-    "start_date": null,
-    "end_date": null,
-    "registration_deadline": null,
-    "description": "",
-    "mode": "in-person",
-    "venue": "",
-    "participation_criteria": "",
-    "prize_pool": "",
-    "tags": [
-      "devfolio",
-      "No Restrictions"
-    ],
-    "scraped_at": "2026-08-22T01:07:23.520483"
+    "scraped_at": "2026-08-23T01:12:46.815492"
   },
   {
     "name": "HackInverse 1.0",
@@ -2943,25 +3111,7 @@
       "devfolio",
       "No Restrictions"
     ],
-    "scraped_at": "2026-08-22T01:07:23.520649"
-  },
-  {
-    "name": "DOMINION 2026",
-    "source": "devfolio",
-    "url": "https://devfolio.co/hackathons/dominion2026",
-    "start_date": null,
-    "end_date": null,
-    "registration_deadline": null,
-    "description": "",
-    "mode": "in-person",
-    "venue": "",
-    "participation_criteria": "",
-    "prize_pool": "",
-    "tags": [
-      "devfolio",
-      "No Restrictions"
-    ],
-    "scraped_at": "2026-08-22T01:07:23.520814"
+    "scraped_at": "2026-08-23T01:12:46.815702"
   },
   {
     "name": "WebCraft24",
@@ -2979,7 +3129,43 @@
       "devfolio",
       "No Restrictions"
     ],
-    "scraped_at": "2026-08-22T01:07:23.520973"
+    "scraped_at": "2026-08-23T01:12:46.815906"
+  },
+  {
+    "name": "DOMINION 2026",
+    "source": "devfolio",
+    "url": "https://devfolio.co/hackathons/dominion2026",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "description": "",
+    "mode": "in-person",
+    "venue": "",
+    "participation_criteria": "",
+    "prize_pool": "",
+    "tags": [
+      "devfolio",
+      "No Restrictions"
+    ],
+    "scraped_at": "2026-08-23T01:12:46.816110"
+  },
+  {
+    "name": "Builders Day by HackUnion",
+    "source": "devfolio",
+    "url": "https://devfolio.co/hackathons/builders-day-hackunion",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "description": "",
+    "mode": "in-person",
+    "venue": "",
+    "participation_criteria": "",
+    "prize_pool": "",
+    "tags": [
+      "devfolio",
+      "No Restrictions"
+    ],
+    "scraped_at": "2026-08-23T01:12:46.816315"
   },
   {
     "name": "Binary Hacks 4.0",
@@ -2997,7 +3183,25 @@
       "devfolio",
       "No Restrictions"
     ],
-    "scraped_at": "2026-08-22T01:07:23.521130"
+    "scraped_at": "2026-08-23T01:12:46.816517"
+  },
+  {
+    "name": "HackSpire'26",
+    "source": "devfolio",
+    "url": "https://devfolio.co/hackathons/hackspire26",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "description": "",
+    "mode": "in-person",
+    "venue": "",
+    "participation_criteria": "",
+    "prize_pool": "",
+    "tags": [
+      "devfolio",
+      "No Restrictions"
+    ],
+    "scraped_at": "2026-08-23T01:12:46.816734"
   },
   {
     "name": "HACKBIOS 2K26",
@@ -3015,7 +3219,7 @@
       "devfolio",
       "No Restrictions"
     ],
-    "scraped_at": "2026-08-22T01:07:23.521291"
+    "scraped_at": "2026-08-23T01:12:46.816941"
   },
   {
     "name": "BOSS Battle",
@@ -3033,26 +3237,26 @@
       "devfolio",
       "No Restrictions"
     ],
-    "scraped_at": "2026-08-22T01:07:23.521450"
+    "scraped_at": "2026-08-23T01:12:46.817144"
   },
   {
-    "name": "HACKER HOUSE GOA 2026",
+    "name": "Hefty-Hacks",
     "source": "devfolio",
-    "url": "https://devfolio.co/hackathons/hacker-house-goa-2026",
+    "url": "https://devfolio.co/hackathons/hefty-hacks",
     "start_date": null,
     "end_date": null,
     "registration_deadline": null,
     "description": "",
-    "mode": "in-person",
+    "mode": "online",
     "venue": "",
     "participation_criteria": "",
     "prize_pool": "",
     "tags": [
       "devfolio",
       "Blockchain",
-      "AI"
+      "FinTech"
     ],
-    "scraped_at": "2026-08-22T01:07:23.521610"
+    "scraped_at": "2026-08-23T01:12:46.817346"
   },
   {
     "name": "Build with AI: Code for Communities \u2014 Second Edition",
@@ -3071,7 +3275,7 @@
       "FLAGSHIP",
       "Team"
     ],
-    "scraped_at": "2026-08-22T01:07:24.044935"
+    "scraped_at": "2026-08-23T01:12:47.483297"
   },
   {
     "name": "BITSoM Vertex Builders' Pitch Fest 2026",
@@ -3090,7 +3294,7 @@
       "FLAGSHIP",
       "Team"
     ],
-    "scraped_at": "2026-08-22T01:07:24.044949"
+    "scraped_at": "2026-08-23T01:12:47.483315"
   },
   {
     "name": "AI-Code Sarathi",
@@ -3109,7 +3313,7 @@
       "FLAGSHIP",
       "Individual"
     ],
-    "scraped_at": "2026-08-22T01:07:24.044955"
+    "scraped_at": "2026-08-23T01:12:47.483321"
   },
   {
     "name": "Gen AI Academy APAC Edition",
@@ -3128,7 +3332,7 @@
       "FLAGSHIP",
       "Team"
     ],
-    "scraped_at": "2026-08-22T01:07:24.044959"
+    "scraped_at": "2026-08-23T01:12:47.483327"
   },
   {
     "name": "IDBI Innovate 2026",
@@ -3147,7 +3351,7 @@
       "FLAGSHIP",
       "Team"
     ],
-    "scraped_at": "2026-08-22T01:07:24.044963"
+    "scraped_at": "2026-08-23T01:12:47.483332"
   },
   {
     "name": "Snowflake CoCo CLI Hackathon 2026",
@@ -3166,7 +3370,7 @@
       "FLAGSHIP",
       "Team"
     ],
-    "scraped_at": "2026-08-22T01:07:24.044968"
+    "scraped_at": "2026-08-23T01:12:47.483337"
   },
   {
     "name": "IBM Z Datathon 2026",
@@ -3185,7 +3389,7 @@
       "COMMUNITY",
       "Team"
     ],
-    "scraped_at": "2026-08-22T01:07:24.044972"
+    "scraped_at": "2026-08-23T01:12:47.483343"
   },
   {
     "name": "Datathon 2026",
@@ -3204,7 +3408,7 @@
       "FLAGSHIP",
       "Team"
     ],
-    "scraped_at": "2026-08-22T01:07:24.044980"
+    "scraped_at": "2026-08-23T01:12:47.483353"
   },
   {
     "name": "Virtual: PromptWars",
@@ -3223,7 +3427,7 @@
       "FLAGSHIP",
       "Individual"
     ],
-    "scraped_at": "2026-08-22T01:07:24.044985"
+    "scraped_at": "2026-08-23T01:12:47.483358"
   },
   {
     "name": "Build with AI: Bootcamps",
@@ -3242,7 +3446,7 @@
       "FLAGSHIP",
       "Individual"
     ],
-    "scraped_at": "2026-08-22T01:07:24.044988"
+    "scraped_at": "2026-08-23T01:12:47.483363"
   },
   {
     "name": "Build with AI: PromptWars",
@@ -3261,7 +3465,7 @@
       "FLAGSHIP",
       "Individual"
     ],
-    "scraped_at": "2026-08-22T01:07:24.044991"
+    "scraped_at": "2026-08-23T01:12:47.483368"
   },
   {
     "name": "EFOS Global Finance Hackathon 2026",
@@ -3280,7 +3484,7 @@
       "HACKATHON",
       "INNOVATIONHACKATHON"
     ],
-    "scraped_at": "2026-08-22T01:07:25.629538"
+    "scraped_at": "2026-08-23T01:12:48.867573"
   },
   {
     "name": "Deviathon 2.0",
@@ -3299,7 +3503,7 @@
       "HACKATHON",
       "INNOVATIONHACKATHON"
     ],
-    "scraped_at": "2026-08-22T01:07:25.629556"
+    "scraped_at": "2026-08-23T01:12:48.867592"
   },
   {
     "name": "Swipe-to-Hire Sales Hiring Challenge",
@@ -3318,7 +3522,7 @@
       "HACKATHON",
       "CASESTUDY"
     ],
-    "scraped_at": "2026-08-22T01:07:25.629571"
+    "scraped_at": "2026-08-23T01:12:48.867611"
   },
   {
     "name": "hackFront India",
@@ -3337,7 +3541,7 @@
       "HACKATHON",
       "INNOVATIONHACKATHON"
     ],
-    "scraped_at": "2026-08-22T01:07:25.629579"
+    "scraped_at": "2026-08-23T01:12:48.867622"
   },
   {
     "name": "The TalkReady AI Interview Readiness Challenge",
@@ -3356,7 +3560,7 @@
       "HACKATHON",
       "INNOVATIONHACKATHON"
     ],
-    "scraped_at": "2026-08-22T01:07:25.629586"
+    "scraped_at": "2026-08-23T01:12:48.867630"
   },
   {
     "name": "CareerPathNavigatorAI CAI Debate",
@@ -3375,7 +3579,7 @@
       "HACKATHON",
       "CASESTUDY"
     ],
-    "scraped_at": "2026-08-22T01:07:25.629594"
+    "scraped_at": "2026-08-23T01:12:48.867641"
   },
   {
     "name": "Real Estate Growth and Strategy Case Competition for MBA & PGDM Students by Invest Mango",
@@ -3394,7 +3598,7 @@
       "HACKATHON",
       "HIRINGHACKATHON"
     ],
-    "scraped_at": "2026-08-22T01:07:25.629601"
+    "scraped_at": "2026-08-23T01:12:48.867649"
   },
   {
     "name": "EFOS SKILLUP INDIA HACKATHON 2026",
@@ -3413,7 +3617,7 @@
       "HACKATHON",
       "INNOVATIONHACKATHON"
     ],
-    "scraped_at": "2026-08-22T01:07:25.629612"
+    "scraped_at": "2026-08-23T01:12:48.867663"
   },
   {
     "name": "Tic Tech Toe'26",
@@ -3432,7 +3636,7 @@
       "HACKATHON",
       "INNOVATIONHACKATHON"
     ],
-    "scraped_at": "2026-08-22T01:07:25.629616"
+    "scraped_at": "2026-08-23T01:12:48.867668"
   },
   {
     "name": "Hack Gear 2.0",
@@ -3451,7 +3655,7 @@
       "HACKATHON",
       "INNOVATIONHACKATHON"
     ],
-    "scraped_at": "2026-08-22T01:07:25.629625"
+    "scraped_at": "2026-08-23T01:12:48.867681"
   },
   {
     "name": "From Runway to Revenue \u2013 Book My Jet Growth Challenge",
@@ -3470,7 +3674,7 @@
       "HACKATHON",
       "CASESTUDY"
     ],
-    "scraped_at": "2026-08-22T01:07:25.629632"
+    "scraped_at": "2026-08-23T01:12:48.867689"
   },
   {
     "name": "Prot\u00e9X",
@@ -3489,7 +3693,7 @@
       "HACKATHON",
       "INNOVATIONHACKATHON"
     ],
-    "scraped_at": "2026-08-22T01:07:25.629634"
+    "scraped_at": "2026-08-23T01:12:48.867692"
   },
   {
     "name": "Great AppSec Hackathon 2025",
@@ -3508,7 +3712,7 @@
       "HACKATHON",
       "INNOVATIONHACKATHON"
     ],
-    "scraped_at": "2026-08-22T01:07:25.629649"
+    "scraped_at": "2026-08-23T01:12:48.867707"
   },
   {
     "name": "ZYND AICKATHON",
@@ -3527,7 +3731,7 @@
       "HACKATHON",
       "INNOVATIONHACKATHON"
     ],
-    "scraped_at": "2026-08-22T01:07:25.629651"
+    "scraped_at": "2026-08-23T01:12:48.867710"
   },
   {
     "name": "Case Study Challenge",
@@ -3545,7 +3749,7 @@
       "whereuelevate",
       "HACKATHON"
     ],
-    "scraped_at": "2026-08-22T01:07:25.629655"
+    "scraped_at": "2026-08-23T01:12:48.867715"
   },
   {
     "name": "Delhi AI Grind",
@@ -3564,7 +3768,7 @@
       "HACKATHON",
       "INNOVATIONHACKATHON"
     ],
-    "scraped_at": "2026-08-22T01:07:25.629662"
+    "scraped_at": "2026-08-23T01:12:48.867725"
   },
   {
     "name": "First Global AI Summit 2K26 \u2013 Hackathon Presented in Collaboration with TATA Advanced Systems Limited",
@@ -3583,7 +3787,7 @@
       "HACKATHON",
       "INNOVATIONHACKATHON"
     ],
-    "scraped_at": "2026-08-22T01:07:25.629668"
+    "scraped_at": "2026-08-23T01:12:48.867732"
   },
   {
     "name": "Mini Hackathon \u2013 Gateway to Devathon",
@@ -3602,7 +3806,7 @@
       "HACKATHON",
       "INNOVATIONHACKATHON"
     ],
-    "scraped_at": "2026-08-22T01:07:25.629673"
+    "scraped_at": "2026-08-23T01:12:48.867739"
   },
   {
     "name": "Nationwide Case Study Competitions by Grant Thornton Bharat",
@@ -3621,7 +3825,7 @@
       "HACKATHON",
       "CASESTUDY"
     ],
-    "scraped_at": "2026-08-22T01:07:25.629683"
+    "scraped_at": "2026-08-23T01:12:48.867751"
   },
   {
     "name": "SmartKrishi 2025 by Globeam",
@@ -3640,7 +3844,7 @@
       "HACKATHON",
       "INNOVATIONHACKATHON"
     ],
-    "scraped_at": "2026-08-22T01:07:25.629689"
+    "scraped_at": "2026-08-23T01:12:48.867759"
   },
   {
     "name": "Yophoria Innovation Challenge 2025",
@@ -3659,7 +3863,7 @@
       "HACKATHON",
       "HIRINGHACKATHON"
     ],
-    "scraped_at": "2026-08-22T01:07:25.629697"
+    "scraped_at": "2026-08-23T01:12:48.867769"
   },
   {
     "name": "Preliminary Smart India Hackathon-2025 @Karnavati University",
@@ -3678,7 +3882,7 @@
       "HACKATHON",
       "SMARTINDIAHACKATHON"
     ],
-    "scraped_at": "2026-08-22T01:07:25.629699"
+    "scraped_at": "2026-08-23T01:12:48.867772"
   },
   {
     "name": "Case Study | Fresher Hiring Challenge - Sales Associate ",
@@ -3697,7 +3901,7 @@
       "HACKATHON",
       "HIRINGHACKATHON"
     ],
-    "scraped_at": "2026-08-22T01:07:25.629702"
+    "scraped_at": "2026-08-23T01:12:48.867775"
   },
   {
     "name": "Execute",
@@ -3716,7 +3920,7 @@
       "HACKATHON",
       "INNOVATIONHACKATHON"
     ],
-    "scraped_at": "2026-08-22T01:07:25.629709"
+    "scraped_at": "2026-08-23T01:12:48.867786"
   },
   {
     "name": "Bunpun Creators League Challenge",
@@ -3734,7 +3938,7 @@
       "whereuelevate",
       "HACKATHON"
     ],
-    "scraped_at": "2026-08-22T01:07:25.629714"
+    "scraped_at": "2026-08-23T01:12:48.867793"
   },
   {
     "name": "Unleash Hito's Viral Powers on LinkedIn",
@@ -3752,7 +3956,7 @@
       "whereuelevate",
       "HACKATHON"
     ],
-    "scraped_at": "2026-08-22T01:07:25.629719"
+    "scraped_at": "2026-08-23T01:12:48.867799"
   },
   {
     "name": "Fresher Hiring Challenge - Telesales Executive",
@@ -3770,7 +3974,7 @@
       "whereuelevate",
       "HACKATHON"
     ],
-    "scraped_at": "2026-08-22T01:07:25.629725"
+    "scraped_at": "2026-08-23T01:12:48.867808"
   },
   {
     "name": "IMPACT@2024",
@@ -3788,7 +3992,7 @@
       "whereuelevate",
       "HACKATHON"
     ],
-    "scraped_at": "2026-08-22T01:07:25.629728"
+    "scraped_at": "2026-08-23T01:12:48.867811"
   },
   {
     "name": "Cosmocloud Low-Code Hackathon",
@@ -3806,7 +4010,7 @@
       "whereuelevate",
       "HACKATHON"
     ],
-    "scraped_at": "2026-08-22T01:07:25.629733"
+    "scraped_at": "2026-08-23T01:12:48.867817"
   },
   {
     "name": "HackwithUttrakhand",
@@ -3824,7 +4028,7 @@
       "whereuelevate",
       "HACKATHON"
     ],
-    "scraped_at": "2026-08-22T01:07:25.629738"
+    "scraped_at": "2026-08-23T01:12:48.867823"
   },
   {
     "name": "TECH HORIZON 2.0 - National Level 24-Hour Offline Hackathon",
@@ -3844,7 +4048,7 @@
       "Security & Surveillance",
       "E-Commerce"
     ],
-    "scraped_at": "2026-08-22T01:07:29.527507"
+    "scraped_at": "2026-08-23T01:12:52.191735"
   },
   {
     "name": "HackWithDU",
@@ -3861,7 +4065,7 @@
     "tags": [
       "devnovate"
     ],
-    "scraped_at": "2026-08-22T01:07:29.527519"
+    "scraped_at": "2026-08-23T01:12:52.191749"
   },
   {
     "name": "Idea2Impact 2026",
@@ -3881,7 +4085,7 @@
       "Prompt Engineering",
       "AI Problem-Solving"
     ],
-    "scraped_at": "2026-08-22T01:07:29.527542"
+    "scraped_at": "2026-08-23T01:12:52.191784"
   },
   {
     "name": "TEDxGCEM",
@@ -3898,7 +4102,7 @@
     "tags": [
       "devnovate"
     ],
-    "scraped_at": "2026-08-22T01:07:29.527558"
+    "scraped_at": "2026-08-23T01:12:52.191806"
   },
   {
     "name": "nextgen-builadathon-2026-chapter 2",
@@ -3915,7 +4119,7 @@
     "tags": [
       "devnovate"
     ],
-    "scraped_at": "2026-08-22T01:07:29.527573"
+    "scraped_at": "2026-08-23T01:12:52.191825"
   },
   {
     "name": "Colossal-A-Pitch",
@@ -3935,7 +4139,7 @@
       "Artificial Intelligence (AI",
       "SaaS"
     ],
-    "scraped_at": "2026-08-22T01:07:29.527587"
+    "scraped_at": "2026-08-23T01:12:52.191843"
   },
   {
     "name": "DotSlash 10.0",
@@ -3952,7 +4156,7 @@
     "tags": [
       "devnovate"
     ],
-    "scraped_at": "2026-08-22T01:07:29.527600"
+    "scraped_at": "2026-08-23T01:12:52.191859"
   },
   {
     "name": "Founders Meet 2K26",
@@ -3970,7 +4174,7 @@
       "devnovate",
       "The Startup Growth & Networking Summit"
     ],
-    "scraped_at": "2026-08-22T01:07:29.527611"
+    "scraped_at": "2026-08-23T01:12:52.191875"
   },
   {
     "name": "GLITCH 36",
@@ -3990,7 +4194,7 @@
       "AI Automation for Small Businesses",
       "AI for Social Good"
     ],
-    "scraped_at": "2026-08-22T01:07:29.527623"
+    "scraped_at": "2026-08-23T01:12:52.191891"
   },
   {
     "name": "CodeX 2.0 | 36 Hours to Change the World...",
@@ -4010,7 +4214,7 @@
       "Sustainability",
       "HealthTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528021"
+    "scraped_at": "2026-08-23T01:12:52.192422"
   },
   {
     "name": "Hack Gear 2.0",
@@ -4030,7 +4234,7 @@
       "Blockchain",
       "Web Development"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528045"
+    "scraped_at": "2026-08-23T01:12:52.192451"
   },
   {
     "name": "VIBE HACK 3.0 \u2013 2026",
@@ -4049,7 +4253,7 @@
       "Web Development",
       "Vibe Coding"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528059"
+    "scraped_at": "2026-08-23T01:12:52.192470"
   },
   {
     "name": "SAH 2.0",
@@ -4069,7 +4273,7 @@
       "Web3",
       "Blockchain"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528071"
+    "scraped_at": "2026-08-23T01:12:52.192487"
   },
   {
     "name": "IGNITE 2K26 TELANGANA's BIGGEST YOUTH FESTIVAL (NATIONAL LEVEL AI-HACKATHON)",
@@ -4089,7 +4293,7 @@
       "FinTech",
       "SaaS"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528085"
+    "scraped_at": "2026-08-23T01:12:52.192502"
   },
   {
     "name": "VIBE CODING",
@@ -4108,7 +4312,7 @@
       "Generative AI",
       "Web Development"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528096"
+    "scraped_at": "2026-08-23T01:12:52.192517"
   },
   {
     "name": "KnowledgeQuarry \u2013 Data Science Challenge",
@@ -4128,7 +4332,7 @@
       "Data Science",
       "Interdisciplinary"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528108"
+    "scraped_at": "2026-08-23T01:12:52.192532"
   },
   {
     "name": "ALGOVERSE 2.0",
@@ -4148,7 +4352,7 @@
       "HealthTech",
       "FinTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528119"
+    "scraped_at": "2026-08-23T01:12:52.192547"
   },
   {
     "name": "AlgoVerse Hackathon 2025",
@@ -4168,7 +4372,7 @@
       "Blockchain",
       "AI/ML"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528134"
+    "scraped_at": "2026-08-23T01:12:52.192567"
   },
   {
     "name": "BuildIt 2.0 Tour 2025",
@@ -4188,7 +4392,7 @@
       "Innovation",
       "Networking"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528146"
+    "scraped_at": "2026-08-23T01:12:52.192582"
   },
   {
     "name": "Local Host @City \u2014 Microsoft Office",
@@ -4208,7 +4412,7 @@
       "AI for Founders",
       "Web3 & AI Startups"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528160"
+    "scraped_at": "2026-08-23T01:12:52.192599"
   },
   {
     "name": "UI/UX Workshop \u00d7 Microsoft Student Club IARE",
@@ -4228,7 +4432,7 @@
       "workshop",
       "networking"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528172"
+    "scraped_at": "2026-08-23T01:12:52.192615"
   },
   {
     "name": "HackWithUttarPradesh 2025",
@@ -4248,7 +4452,7 @@
       "Technology",
       "Entrepreneurship"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528184"
+    "scraped_at": "2026-08-23T01:12:52.192630"
   },
   {
     "name": "DeVQueens Hackathon",
@@ -4268,7 +4472,7 @@
       "IoT",
       "Machine Learning"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528195"
+    "scraped_at": "2026-08-23T01:12:52.192645"
   },
   {
     "name": "Agent Memory Hackathon 2.0",
@@ -4288,7 +4492,7 @@
       "HealthTech",
       "FinTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528206"
+    "scraped_at": "2026-08-23T01:12:52.192659"
   },
   {
     "name": "ideaXchange",
@@ -4308,7 +4512,7 @@
       "NoCode",
       "AnyDomain"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528217"
+    "scraped_at": "2026-08-23T01:12:52.192674"
   },
   {
     "name": "ORBIT Agentic Hyperthon (Season 1)",
@@ -4327,7 +4531,7 @@
       "Agentic AI",
       "Generative AI"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528228"
+    "scraped_at": "2026-08-23T01:12:52.192689"
   },
   {
     "name": "HackerWrath 2.0",
@@ -4344,7 +4548,7 @@
     "tags": [
       "devnovate"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528239"
+    "scraped_at": "2026-08-23T01:12:52.192720"
   },
   {
     "name": "Consumer Crypto Hackathon by Open Economy",
@@ -4364,7 +4568,7 @@
       "Consumer Crypto",
       "Crypto "
     ],
-    "scraped_at": "2026-08-22T01:07:29.528250"
+    "scraped_at": "2026-08-23T01:12:52.192734"
   },
   {
     "name": "VALORIX",
@@ -4384,7 +4588,7 @@
       "HealthTech",
       "FinTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528261"
+    "scraped_at": "2026-08-23T01:12:52.192750"
   },
   {
     "name": "YOLO Pune edition presented by 23ventures",
@@ -4402,7 +4606,7 @@
       "devnovate",
       "Generative AI"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528272"
+    "scraped_at": "2026-08-23T01:12:52.192765"
   },
   {
     "name": "Import paradox",
@@ -4422,7 +4626,7 @@
       "IOT",
       "Cloud Computing"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528283"
+    "scraped_at": "2026-08-23T01:12:52.192779"
   },
   {
     "name": "Hack Sphere",
@@ -4442,7 +4646,7 @@
       "Web3",
       "Machine Learning"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528294"
+    "scraped_at": "2026-08-23T01:12:52.192794"
   },
   {
     "name": "Hack on Titan 2026",
@@ -4461,7 +4665,7 @@
       "Generative AI",
       "Web Development"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528306"
+    "scraped_at": "2026-08-23T01:12:52.192809"
   },
   {
     "name": "Vynedam Talent Hunt 2K26",
@@ -4481,7 +4685,7 @@
       "HealthTech",
       "Cybersecurity"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528317"
+    "scraped_at": "2026-08-23T01:12:52.192825"
   },
   {
     "name": "NASA Space Apps Challenge \u2013 Jabalpur Edition 0.1",
@@ -4501,7 +4705,7 @@
       "Earth Science",
       "Innovation"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528333"
+    "scraped_at": "2026-08-23T01:12:52.192847"
   },
   {
     "name": "TECH X ABROAD 4.0 PUNE EDITION",
@@ -4521,7 +4725,7 @@
       "GLOBAL PROGAM ",
       "FOREIGN EDUCATION"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528344"
+    "scraped_at": "2026-08-23T01:12:52.192862"
   },
   {
     "name": "Hackforge",
@@ -4541,7 +4745,7 @@
       "Automations",
       "LLM"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528354"
+    "scraped_at": "2026-08-23T01:12:52.192877"
   },
   {
     "name": "HackwithChennai 2.0",
@@ -4559,7 +4763,7 @@
       "devnovate",
       "Generative AI"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528365"
+    "scraped_at": "2026-08-23T01:12:52.192892"
   },
   {
     "name": "Cyber Fest 2026 \u2013 National Cybersecurity & Blockchain Conclave",
@@ -4579,7 +4783,7 @@
       "Blockchain",
       "Ethical Hacking"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528377"
+    "scraped_at": "2026-08-23T01:12:52.192908"
   },
   {
     "name": "ASTRAVA | Hackathon",
@@ -4599,7 +4803,7 @@
       "AI for HealthCare",
       "AI for CyberSecurity & FinTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528388"
+    "scraped_at": "2026-08-23T01:12:52.192926"
   },
   {
     "name": "YOLO- Pune Edition 2",
@@ -4618,7 +4822,7 @@
       "Generative AI",
       "Cloud Computing"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528400"
+    "scraped_at": "2026-08-23T01:12:52.192941"
   },
   {
     "name": "NEXUS HYBRID",
@@ -4636,7 +4840,7 @@
       "devnovate",
       "Blockchain"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528411"
+    "scraped_at": "2026-08-23T01:12:52.192955"
   },
   {
     "name": "HackWithDelhi 3.0",
@@ -4656,7 +4860,7 @@
       "HealthTech",
       "FinTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528422"
+    "scraped_at": "2026-08-23T01:12:52.192969"
   },
   {
     "name": "BuildWithDelhi 2.0 \u2013 HackWithIndia x Microsoft",
@@ -4676,7 +4880,7 @@
       "HealthTech",
       "FinTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528435"
+    "scraped_at": "2026-08-23T01:12:52.192986"
   },
   {
     "name": "NASA Space Apps Challenge India 2025",
@@ -4696,7 +4900,7 @@
       "Earth",
       "Innovation"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528448"
+    "scraped_at": "2026-08-23T01:12:52.193000"
   },
   {
     "name": "TechSangam 2.0 - AI in Market & Industry",
@@ -4716,7 +4920,7 @@
       "Market Trends",
       "Industry Insights"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528459"
+    "scraped_at": "2026-08-23T01:12:52.193014"
   },
   {
     "name": "TechX Abroad 2.0",
@@ -4736,7 +4940,7 @@
       "Technology",
       "Networking"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528470"
+    "scraped_at": "2026-08-23T01:12:52.193029"
   },
   {
     "name": "GenIgnite \u2013 Pre-Event of HackWithIndia SDGI Chapter",
@@ -4756,7 +4960,7 @@
       "Hackathon",
       "Networking"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528482"
+    "scraped_at": "2026-08-23T01:12:52.193045"
   },
   {
     "name": "HackBaroda 2026 \u2013 Community Edition",
@@ -4776,7 +4980,7 @@
       "SaaS",
       "Cybersecurity"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528494"
+    "scraped_at": "2026-08-23T01:12:52.193060"
   },
   {
     "name": "HackBaroda 2026 \u2013 Company Edition",
@@ -4796,7 +5000,7 @@
       "Cybersecurity",
       "Web Development"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528505"
+    "scraped_at": "2026-08-23T01:12:52.193075"
   },
   {
     "name": "AgentH4ck 2025 ( Workshop & Sprint Hackathon )",
@@ -4813,7 +5017,7 @@
     "tags": [
       "devnovate"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528517"
+    "scraped_at": "2026-08-23T01:12:52.193089"
   },
   {
     "name": "LaunchPad AI \u2013 HackWithIndia PIET Chapter Launch & ML Deep Dive",
@@ -4833,7 +5037,7 @@
       "Machine Learning",
       "Innovation"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528529"
+    "scraped_at": "2026-08-23T01:12:52.193105"
   },
   {
     "name": "XYNOVA(Ideathon)",
@@ -4850,7 +5054,7 @@
     "tags": [
       "devnovate"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528540"
+    "scraped_at": "2026-08-23T01:12:52.193119"
   },
   {
     "name": "Solaris X - Grand Hackathon",
@@ -4870,7 +5074,7 @@
       "Generative AI",
       "Web Development"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528551"
+    "scraped_at": "2026-08-23T01:12:52.193133"
   },
   {
     "name": "Founders Fest: What The Tech!",
@@ -4890,7 +5094,7 @@
       "Generative AI",
       "Blockchain"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528562"
+    "scraped_at": "2026-08-23T01:12:52.193150"
   },
   {
     "name": "EPOCH ZERO 2026",
@@ -4910,7 +5114,7 @@
       "GEN AI",
       "FINTECH"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528573"
+    "scraped_at": "2026-08-23T01:12:52.193164"
   },
   {
     "name": "HACK TO SURVIVE",
@@ -4930,7 +5134,7 @@
       "HealthTech",
       "FinTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528583"
+    "scraped_at": "2026-08-23T01:12:52.193179"
   },
   {
     "name": "SAARTHI'25",
@@ -4950,7 +5154,7 @@
       "Sustainability",
       "HealthTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528595"
+    "scraped_at": "2026-08-23T01:12:52.193194"
   },
   {
     "name": "HackwithDC",
@@ -4969,7 +5173,7 @@
       "Web Development",
       "AI"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528606"
+    "scraped_at": "2026-08-23T01:12:52.193208"
   },
   {
     "name": "Hack-The-Matrix",
@@ -4989,7 +5193,7 @@
       "Machine Learning",
       "AI"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528617"
+    "scraped_at": "2026-08-23T01:12:52.193223"
   },
   {
     "name": "HackDevengers 1.0",
@@ -5009,7 +5213,7 @@
       "AIML",
       "Web3"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528629"
+    "scraped_at": "2026-08-23T01:12:52.193238"
   },
   {
     "name": "Dev!@thon 2025",
@@ -5029,7 +5233,7 @@
       "Cybersecurity",
       "Generative AI"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528656"
+    "scraped_at": "2026-08-23T01:12:52.193253"
   },
   {
     "name": "TECH X ABROAD 5.0 MUMBAI EDITION",
@@ -5049,7 +5253,7 @@
       "Networking ",
       "Education "
     ],
-    "scraped_at": "2026-08-22T01:07:29.528668"
+    "scraped_at": "2026-08-23T01:12:52.193267"
   },
   {
     "name": "DNS Hackelite26",
@@ -5069,7 +5273,7 @@
       "HealthTech",
       "FinTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528679"
+    "scraped_at": "2026-08-23T01:12:52.193282"
   },
   {
     "name": "Kurukshetra \u2013 Mahabharat of Codes",
@@ -5088,7 +5292,7 @@
       "AI",
       "OPEN INNOVATION "
     ],
-    "scraped_at": "2026-08-22T01:07:29.528691"
+    "scraped_at": "2026-08-23T01:12:52.193296"
   },
   {
     "name": "Kurukshetra \u2013 Mahabharat of Codes",
@@ -5107,7 +5311,7 @@
       "AI",
       "OPEN INNOVATION "
     ],
-    "scraped_at": "2026-08-22T01:07:29.528702"
+    "scraped_at": "2026-08-23T01:12:52.193310"
   },
   {
     "name": "HashHacks - Convoke 8.0 DUCIC",
@@ -5124,7 +5328,7 @@
     "tags": [
       "devnovate"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528712"
+    "scraped_at": "2026-08-23T01:12:52.193324"
   },
   {
     "name": "Agent Memory Hackathon",
@@ -5142,7 +5346,7 @@
       "devnovate",
       "Generative AI"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528727"
+    "scraped_at": "2026-08-23T01:12:52.193338"
   },
   {
     "name": "GENIGNITE2.0",
@@ -5162,7 +5366,7 @@
       "HealthTech",
       "FinTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528738"
+    "scraped_at": "2026-08-23T01:12:52.193355"
   },
   {
     "name": "Unmasking Dark Web \u2013 Cybersecurity Masterclass",
@@ -5182,7 +5386,7 @@
       "Dark Web",
       "Privacy"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528753"
+    "scraped_at": "2026-08-23T01:12:52.193377"
   },
   {
     "name": "Hack The Night 2026",
@@ -5202,7 +5406,7 @@
       "Social & EdTech",
       "IoT & Hardware"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528763"
+    "scraped_at": "2026-08-23T01:12:52.193391"
   },
   {
     "name": "Create4Cause Hackathon - 2025",
@@ -5222,7 +5426,7 @@
       "AI in Healthcare",
       "AI in Education"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528779"
+    "scraped_at": "2026-08-23T01:12:52.193412"
   },
   {
     "name": "TechX Abroad 3.0 HackWithIndia x Devnovate",
@@ -5242,7 +5446,7 @@
       "Community",
       "Technology"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528791"
+    "scraped_at": "2026-08-23T01:12:52.193426"
   },
   {
     "name": "Hacksavvy-2026",
@@ -5262,7 +5466,7 @@
       "Cybersecurity & BlockChain",
       "IoT, VLSI & Embedded Systems"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528802"
+    "scraped_at": "2026-08-23T01:12:52.193441"
   },
   {
     "name": "UAi HAWK-A-THON\u2013 24- Hour Full Residential Hackathon",
@@ -5282,7 +5486,7 @@
       "HealthTech",
       "FinTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528815"
+    "scraped_at": "2026-08-23T01:12:52.193457"
   },
   {
     "name": "Bigrock Exchange",
@@ -5302,7 +5506,7 @@
       "Web3",
       "Web Development"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528825"
+    "scraped_at": "2026-08-23T01:12:52.193471"
   },
   {
     "name": "Skillset VR 5.0 Robotics Workshop 2025",
@@ -5322,7 +5526,7 @@
       "Arduino",
       "IoT"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528836"
+    "scraped_at": "2026-08-23T01:12:52.193485"
   },
   {
     "name": "TechFront AI and Blockchain Summit",
@@ -5342,7 +5546,7 @@
       "Blockchain",
       "Generative AI"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528852"
+    "scraped_at": "2026-08-23T01:12:52.193505"
   },
   {
     "name": "DESIGNATHON",
@@ -5359,7 +5563,7 @@
     "tags": [
       "devnovate"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528863"
+    "scraped_at": "2026-08-23T01:12:52.193519"
   },
   {
     "name": "Devnovate Hire-A-Thon",
@@ -5377,7 +5581,7 @@
       "devnovate",
       "Hiring"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528874"
+    "scraped_at": "2026-08-23T01:12:52.193533"
   },
   {
     "name": "HackPulse Chapter 1",
@@ -5394,7 +5598,7 @@
     "tags": [
       "devnovate"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528884"
+    "scraped_at": "2026-08-23T01:12:52.193547"
   },
   {
     "name": "Daksh SparkFest 2025",
@@ -5414,7 +5618,7 @@
       "HealthTech",
       "FinTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528895"
+    "scraped_at": "2026-08-23T01:12:52.193562"
   },
   {
     "name": "VibeCode-26",
@@ -5434,7 +5638,7 @@
       "HealthTech",
       "SaaS"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528906"
+    "scraped_at": "2026-08-23T01:12:52.193578"
   },
   {
     "name": "Hack With GDG S3",
@@ -5454,7 +5658,7 @@
       "Mobile Development",
       "Cloud Computing"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528917"
+    "scraped_at": "2026-08-23T01:12:52.193592"
   },
   {
     "name": "Udbhavathon 2026",
@@ -5473,7 +5677,7 @@
       "Artificial Intelligence",
       "Agentic AI"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528928"
+    "scraped_at": "2026-08-23T01:12:52.193607"
   },
   {
     "name": "XPLOITX 2026 \u2013 National Level Cyber Fest",
@@ -5493,7 +5697,7 @@
       "Blockchain",
       "network security"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528939"
+    "scraped_at": "2026-08-23T01:12:52.193622"
   },
   {
     "name": "NAME",
@@ -5513,7 +5717,7 @@
       "Cybersecurity",
       "IoT"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528954"
+    "scraped_at": "2026-08-23T01:12:52.193641"
   },
   {
     "name": "TECH X ABROAD 6.0 DELHI EDITION",
@@ -5532,7 +5736,7 @@
       "Study Abroad ",
       "Global Progran"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528965"
+    "scraped_at": "2026-08-23T01:12:52.193656"
   },
   {
     "name": "HackStrom \u2013 National Hackathon 2025",
@@ -5552,7 +5756,7 @@
       "Web",
       "Hackathon "
     ],
-    "scraped_at": "2026-08-22T01:07:29.528978"
+    "scraped_at": "2026-08-23T01:12:52.193673"
   },
   {
     "name": "Zyph - 26",
@@ -5572,7 +5776,7 @@
       "Blockchain",
       "Open Innovation"
     ],
-    "scraped_at": "2026-08-22T01:07:29.528991"
+    "scraped_at": "2026-08-23T01:12:52.193688"
   },
   {
     "name": "Talentine",
@@ -5592,7 +5796,7 @@
       "Web3",
       "Web Development"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529001"
+    "scraped_at": "2026-08-23T01:12:52.193715"
   },
   {
     "name": "K.A.M.A.L.A AI Agents Workshop",
@@ -5612,7 +5816,7 @@
       "Artificial Intelligence",
       "Certification"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529013"
+    "scraped_at": "2026-08-23T01:12:52.193730"
   },
   {
     "name": "T-Hacks 8.0",
@@ -5632,7 +5836,7 @@
       "Blockchain",
       "Gen AI"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529024"
+    "scraped_at": "2026-08-23T01:12:52.193744"
   },
   {
     "name": "AIthon \u2013 AI & ML Hackathon 2025",
@@ -5652,7 +5856,7 @@
       "ML",
       "Python"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529036"
+    "scraped_at": "2026-08-23T01:12:52.193761"
   },
   {
     "name": "BUILDIT TOUR 3.0 HYDERABAD",
@@ -5672,7 +5876,7 @@
       "Curated Learning",
       "Premium Networking"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529048"
+    "scraped_at": "2026-08-23T01:12:52.193776"
   },
   {
     "name": "Code Carnival 2",
@@ -5692,7 +5896,7 @@
       "Innovation",
       "Problem Solving"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529059"
+    "scraped_at": "2026-08-23T01:12:52.193792"
   },
   {
     "name": "LearnIt Tour 2.0",
@@ -5712,7 +5916,7 @@
       "Web",
       "Cloud"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529070"
+    "scraped_at": "2026-08-23T01:12:52.193806"
   },
   {
     "name": "test",
@@ -5731,7 +5935,7 @@
       "Generative AI",
       "HealthTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529080"
+    "scraped_at": "2026-08-23T01:12:52.193820"
   },
   {
     "name": "The Dawn",
@@ -5751,7 +5955,7 @@
       "FinTech",
       "HealthTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529090"
+    "scraped_at": "2026-08-23T01:12:52.193834"
   },
   {
     "name": "Hack Chain",
@@ -5771,7 +5975,7 @@
       "Blockchain",
       "Coding"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529101"
+    "scraped_at": "2026-08-23T01:12:52.193848"
   },
   {
     "name": "Hack With Mumbai \u2013 Pre-Event",
@@ -5791,7 +5995,7 @@
       "Web3",
       "Networking"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529112"
+    "scraped_at": "2026-08-23T01:12:52.193864"
   },
   {
     "name": "THE VERDICT",
@@ -5811,7 +6015,7 @@
       "Tech",
       "Hackathon"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529123"
+    "scraped_at": "2026-08-23T01:12:52.193879"
   },
   {
     "name": "CodeAlchemy 25",
@@ -5828,7 +6032,7 @@
     "tags": [
       "devnovate"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529135"
+    "scraped_at": "2026-08-23T01:12:52.193892"
   },
   {
     "name": "AI Decode Tech4Hack & HackWithIndia",
@@ -5848,7 +6052,7 @@
       "Networking ",
       "AI"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529146"
+    "scraped_at": "2026-08-23T01:12:52.193906"
   },
   {
     "name": "HackWithBangalore",
@@ -5868,7 +6072,7 @@
       "Web",
       "Networking "
     ],
-    "scraped_at": "2026-08-22T01:07:29.529156"
+    "scraped_at": "2026-08-23T01:12:52.193920"
   },
   {
     "name": "GenAI Buildathon Sprint 2025",
@@ -5886,7 +6090,7 @@
       "devnovate",
       "AI"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529167"
+    "scraped_at": "2026-08-23T01:12:52.193934"
   },
   {
     "name": "Innovathon 1.0",
@@ -5906,7 +6110,7 @@
       "IoT, AR/VR, Drones and Cybersecurity",
       "Sustainable Development"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529178"
+    "scraped_at": "2026-08-23T01:12:52.193950"
   },
   {
     "name": "National Online Hackathon 2026",
@@ -5926,7 +6130,7 @@
       "Open Innovation",
       " AI / ML for Business"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529188"
+    "scraped_at": "2026-08-23T01:12:52.193964"
   },
   {
     "name": "AI Symposium 2K26",
@@ -5946,7 +6150,7 @@
       "SaaS",
       "Web3"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529199"
+    "scraped_at": "2026-08-23T01:12:52.193977"
   },
   {
     "name": "BuildX India 2.0",
@@ -5966,7 +6170,7 @@
       "FinTech",
       "Sustainability"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529210"
+    "scraped_at": "2026-08-23T01:12:52.193991"
   },
   {
     "name": "LEARN IT \u2013 BVUDET Navi Mumbai",
@@ -5986,7 +6190,7 @@
       "Innovation",
       "Networking"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529225"
+    "scraped_at": "2026-08-23T01:12:52.194011"
   },
   {
     "name": "Turing Hacks 4.0",
@@ -6006,7 +6210,7 @@
       "HealthTech",
       "IoT"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529238"
+    "scraped_at": "2026-08-23T01:12:52.194025"
   },
   {
     "name": "Founders 2026",
@@ -6026,7 +6230,7 @@
       "Mobile Development",
       "Web Development"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529249"
+    "scraped_at": "2026-08-23T01:12:52.194041"
   },
   {
     "name": "HackathonZ",
@@ -6046,7 +6250,7 @@
       "FinTech",
       "HealthTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529259"
+    "scraped_at": "2026-08-23T01:12:52.194056"
   },
   {
     "name": "HackwithBangalore 4",
@@ -6065,7 +6269,7 @@
       "Generative AI",
       "HealthTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529270"
+    "scraped_at": "2026-08-23T01:12:52.194070"
   },
   {
     "name": "Startathon -The Nexus of founders",
@@ -6083,7 +6287,7 @@
       "devnovate",
       "AI"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529282"
+    "scraped_at": "2026-08-23T01:12:52.194084"
   },
   {
     "name": "IGNITE(AI&ML)-2026",
@@ -6103,7 +6307,7 @@
       "HealthTech",
       "FinTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529293"
+    "scraped_at": "2026-08-23T01:12:52.194099"
   },
   {
     "name": "IEEE DATAPORT ML CHALLENGE",
@@ -6121,7 +6325,7 @@
       "devnovate",
       "Machine Learning"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529303"
+    "scraped_at": "2026-08-23T01:12:52.194113"
   },
   {
     "name": "GenIgnite - 2025",
@@ -6141,7 +6345,7 @@
       "Innovation",
       "Technology"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529314"
+    "scraped_at": "2026-08-23T01:12:52.194127"
   },
   {
     "name": "TECHNEX-2025-26 Hackathon",
@@ -6161,7 +6365,7 @@
       "Web 3",
       "HealthTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529325"
+    "scraped_at": "2026-08-23T01:12:52.194143"
   },
   {
     "name": "TECHNEX-2025-26 Hackathon",
@@ -6181,7 +6385,7 @@
       "Web 3",
       "HealthTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529336"
+    "scraped_at": "2026-08-23T01:12:52.194157"
   },
   {
     "name": "TECHNEX-2025-26 Hackathon",
@@ -6201,7 +6405,7 @@
       "Web 3",
       "HealthTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529347"
+    "scraped_at": "2026-08-23T01:12:52.194171"
   },
   {
     "name": "Code For Her - IEEE RGIPT SB",
@@ -6221,7 +6425,7 @@
       "Women Safety",
       "Social Impact"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529358"
+    "scraped_at": "2026-08-23T01:12:52.194185"
   },
   {
     "name": "CodeSangram",
@@ -6241,7 +6445,7 @@
       "Mobile Development",
       "Web Development"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529370"
+    "scraped_at": "2026-08-23T01:12:52.194200"
   },
   {
     "name": "RanShastra",
@@ -6261,7 +6465,7 @@
       "Sustainable Futures & Green Innovation",
       "Health, Well-Being & Mental Wellness"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529381"
+    "scraped_at": "2026-08-23T01:12:52.194214"
   },
   {
     "name": "HackWithUttarPradesh 2025 \u2013 LocalHost@Noida",
@@ -6281,7 +6485,7 @@
       "Startups",
       "Founders"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529391"
+    "scraped_at": "2026-08-23T01:12:52.194229"
   },
   {
     "name": "HackWithHyderabad 2025 \u2013 Pre-Hackathon (Powered by HackwithIndia & ACM KLH)",
@@ -6301,7 +6505,7 @@
       "Technology",
       "Networking"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529404"
+    "scraped_at": "2026-08-23T01:12:52.194246"
   },
   {
     "name": "Hackorium",
@@ -6321,7 +6525,7 @@
       "HealthTech",
       "SaaS"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529415"
+    "scraped_at": "2026-08-23T01:12:52.194264"
   },
   {
     "name": "Hacknovate 2025",
@@ -6341,7 +6545,7 @@
       " Clean and Sustainable Technology",
       "Health Tech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529426"
+    "scraped_at": "2026-08-23T01:12:52.194278"
   },
   {
     "name": "FESTIN-O-BEATS",
@@ -6361,7 +6565,7 @@
       "CULTURAL",
       "FINEARTS"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529438"
+    "scraped_at": "2026-08-23T01:12:52.194292"
   },
   {
     "name": "TECHXABROAD 7.0 Banglore edition",
@@ -6380,7 +6584,7 @@
       "FOREIGN EDUCATION",
       "STUDY ABROAD"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529449"
+    "scraped_at": "2026-08-23T01:12:52.194306"
   },
   {
     "name": "TECHXABROAD 8.0 Hyderabad edition",
@@ -6399,7 +6603,7 @@
       "foreign education",
       "study aborad"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529461"
+    "scraped_at": "2026-08-23T01:12:52.194320"
   },
   {
     "name": "TECHXABROAD 9.0 CHENNI EDITION",
@@ -6419,7 +6623,7 @@
       "ABROAD PROGRAM",
       "EXCHANGE PROGRAMS"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529474"
+    "scraped_at": "2026-08-23T01:12:52.194335"
   },
   {
     "name": "Enigma'26",
@@ -6439,7 +6643,7 @@
       "HealthTech",
       "FinTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529484"
+    "scraped_at": "2026-08-23T01:12:52.194349"
   },
   {
     "name": "Axion 2026",
@@ -6457,7 +6661,7 @@
       "devnovate",
       "Generative AI"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529495"
+    "scraped_at": "2026-08-23T01:12:52.194363"
   },
   {
     "name": "Axion 2026",
@@ -6475,7 +6679,7 @@
       "devnovate",
       "Generative AI"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529505"
+    "scraped_at": "2026-08-23T01:12:52.194377"
   },
   {
     "name": "Axion 2026",
@@ -6493,7 +6697,7 @@
       "devnovate",
       "Generative AI"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529516"
+    "scraped_at": "2026-08-23T01:12:52.194391"
   },
   {
     "name": "Axion",
@@ -6511,7 +6715,7 @@
       "devnovate",
       "Generative AI"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529526"
+    "scraped_at": "2026-08-23T01:12:52.194404"
   },
   {
     "name": "Axion 2026",
@@ -6529,7 +6733,7 @@
       "devnovate",
       "Generative AI"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529537"
+    "scraped_at": "2026-08-23T01:12:52.194418"
   },
   {
     "name": "Axion 2026",
@@ -6547,7 +6751,7 @@
       "devnovate",
       "Generative AI"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529547"
+    "scraped_at": "2026-08-23T01:12:52.194431"
   },
   {
     "name": "Axion 2026",
@@ -6565,7 +6769,7 @@
       "devnovate",
       "Generative AI"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529557"
+    "scraped_at": "2026-08-23T01:12:52.194446"
   },
   {
     "name": "SGU HACKATHON 2.0",
@@ -6585,7 +6789,7 @@
       "IoT",
       "AR/VR"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529568"
+    "scraped_at": "2026-08-23T01:12:52.194460"
   },
   {
     "name": "Axion",
@@ -6603,7 +6807,7 @@
       "devnovate",
       "Generative AI"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529578"
+    "scraped_at": "2026-08-23T01:12:52.194474"
   },
   {
     "name": "Axion 2026",
@@ -6621,7 +6825,7 @@
       "devnovate",
       "Generative AI"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529589"
+    "scraped_at": "2026-08-23T01:12:52.194488"
   },
   {
     "name": "SGU HACKATHON 2.0",
@@ -6641,7 +6845,7 @@
       "IoT",
       "AR/VR"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529600"
+    "scraped_at": "2026-08-23T01:12:52.194502"
   },
   {
     "name": "Vector Global Hackathon",
@@ -6659,7 +6863,7 @@
       "devnovate",
       "AI"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529610"
+    "scraped_at": "2026-08-23T01:12:52.194516"
   },
   {
     "name": "Vibe with India",
@@ -6678,7 +6882,7 @@
       "Web Development",
       "Vibe Coding"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529621"
+    "scraped_at": "2026-08-23T01:12:52.194531"
   },
   {
     "name": "Devnovate Summer of Code",
@@ -6697,7 +6901,7 @@
       "Web Development",
       "Open source"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529632"
+    "scraped_at": "2026-08-23T01:12:52.194545"
   },
   {
     "name": "The Quackathon",
@@ -6716,7 +6920,7 @@
       "Generative AI",
       "HealthTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529656"
+    "scraped_at": "2026-08-23T01:12:52.194559"
   },
   {
     "name": "Hack Aarambh",
@@ -6736,7 +6940,7 @@
       "FinTech",
       "Open Innovation"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529667"
+    "scraped_at": "2026-08-23T01:12:52.194576"
   },
   {
     "name": "Alpha Quest Hack",
@@ -6753,7 +6957,7 @@
     "tags": [
       "devnovate"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529678"
+    "scraped_at": "2026-08-23T01:12:52.194590"
   },
   {
     "name": "AlgoStorm 2.0",
@@ -6773,7 +6977,7 @@
       "HealthTech",
       "FinTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529689"
+    "scraped_at": "2026-08-23T01:12:52.194605"
   },
   {
     "name": "GenIgnite 2025 \u2013 Pre-Hackathon at IPEC",
@@ -6793,7 +6997,7 @@
       "Web3  ",
       "FinTech  "
     ],
-    "scraped_at": "2026-08-22T01:07:29.529701"
+    "scraped_at": "2026-08-23T01:12:52.194620"
   },
   {
     "name": "Hack With Rajasthan",
@@ -6813,7 +7017,7 @@
       "Hackathon",
       "Technology"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529712"
+    "scraped_at": "2026-08-23T01:12:52.194635"
   },
   {
     "name": "HACK BEYOND",
@@ -6833,7 +7037,7 @@
       "Career and Professional Growth",
       "Advanced Skill Development"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529725"
+    "scraped_at": "2026-08-23T01:12:52.194649"
   },
   {
     "name": "TechJam",
@@ -6853,7 +7057,7 @@
       "Machine Learning",
       "Blockchain"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529729"
+    "scraped_at": "2026-08-23T01:12:52.194653"
   },
   {
     "name": "VibeCode-26",
@@ -6873,7 +7077,7 @@
       "HealthTech",
       "Web Development"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529732"
+    "scraped_at": "2026-08-23T01:12:52.194661"
   },
   {
     "name": "Enigma'26",
@@ -6893,7 +7097,7 @@
       "HealthTech",
       "FinTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529735"
+    "scraped_at": "2026-08-23T01:12:52.194665"
   },
   {
     "name": "Pixel Craft - Innovatex 4.0",
@@ -6912,7 +7116,7 @@
       "UI/UX",
       "Website Designing"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529738"
+    "scraped_at": "2026-08-23T01:12:52.194672"
   },
   {
     "name": "Yantra Yugam 2026 \u2013 30 Hour National Level Hackathon",
@@ -6932,7 +7136,7 @@
       "Artificial Intelligence & Machine Learning",
       "Web Development"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529742"
+    "scraped_at": "2026-08-23T01:12:52.194677"
   },
   {
     "name": "Hacktrax 2.0",
@@ -6952,7 +7156,7 @@
       "HealthTech",
       "FinTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529744"
+    "scraped_at": "2026-08-23T01:12:52.194681"
   },
   {
     "name": "Axion | 8 Hours Hackathon",
@@ -6970,7 +7174,7 @@
       "devnovate",
       "Generative AI"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529747"
+    "scraped_at": "2026-08-23T01:12:52.194685"
   },
   {
     "name": "Eiwjz zkbkxjsv",
@@ -6990,7 +7194,7 @@
       "HealthTech",
       "FinTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529752"
+    "scraped_at": "2026-08-23T01:12:52.194690"
   },
   {
     "name": "HackFusion",
@@ -7007,7 +7211,7 @@
     "tags": [
       "devnovate"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529757"
+    "scraped_at": "2026-08-23T01:12:52.194710"
   },
   {
     "name": "Tech Sageathon 2026",
@@ -7027,7 +7231,7 @@
       "Mobile Development",
       "Web Development"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529760"
+    "scraped_at": "2026-08-23T01:12:52.194715"
   },
   {
     "name": "Agent Memory Hackathon",
@@ -7045,7 +7249,7 @@
       "devnovate",
       "Generative AI"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529763"
+    "scraped_at": "2026-08-23T01:12:52.194720"
   },
   {
     "name": "EFOS SkillUp India Hackathon",
@@ -7065,7 +7269,7 @@
       "AI Automation & Innovation ",
       "Data Science"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529766"
+    "scraped_at": "2026-08-23T01:12:52.194727"
   },
   {
     "name": "INNOVATE X",
@@ -7085,7 +7289,7 @@
       "Web Development",
       "Machine Learning"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529769"
+    "scraped_at": "2026-08-23T01:12:52.194732"
   },
   {
     "name": "INNOVEX-2.O",
@@ -7105,7 +7309,7 @@
       "Machine Learning",
       "Web Development"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529772"
+    "scraped_at": "2026-08-23T01:12:52.194736"
   },
   {
     "name": "AN/",
@@ -7122,7 +7326,7 @@
     "tags": [
       "devnovate"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529775"
+    "scraped_at": "2026-08-23T01:12:52.194740"
   },
   {
     "name": "awwwwwwwwwwwwww",
@@ -7140,7 +7344,7 @@
       "devnovate",
       "Generative AI"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529778"
+    "scraped_at": "2026-08-23T01:12:52.194744"
   },
   {
     "name": "Hack Baroda",
@@ -7160,7 +7364,7 @@
       "FinTech",
       "Open Innovation"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529781"
+    "scraped_at": "2026-08-23T01:12:52.194750"
   },
   {
     "name": "vithack2design2code",
@@ -7180,7 +7384,7 @@
       "Web3",
       "Mobile Development"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529784"
+    "scraped_at": "2026-08-23T01:12:52.194754"
   },
   {
     "name": "Turing Hacks 4.0",
@@ -7197,7 +7401,7 @@
     "tags": [
       "devnovate"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529787"
+    "scraped_at": "2026-08-23T01:12:52.194758"
   },
   {
     "name": "HACKXTREME 1.0",
@@ -7215,7 +7419,7 @@
       "devnovate",
       "Open Innovation"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529798"
+    "scraped_at": "2026-08-23T01:12:52.194775"
   },
   {
     "name": "N/A",
@@ -7232,7 +7436,7 @@
     "tags": [
       "devnovate"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529811"
+    "scraped_at": "2026-08-23T01:12:52.194790"
   },
   {
     "name": "HackBharat",
@@ -7252,7 +7456,7 @@
       "Generative AI",
       "Machine Learning"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529823"
+    "scraped_at": "2026-08-23T01:12:52.194808"
   },
   {
     "name": "Design2Code 2.0",
@@ -7272,7 +7476,7 @@
       "Wire Frames",
       "Figma"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529834"
+    "scraped_at": "2026-08-23T01:12:52.194824"
   },
   {
     "name": "Zero to One \u2013 24 Hour Startup Challenge",
@@ -7292,7 +7496,7 @@
       "Startup",
       "Innovation"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529845"
+    "scraped_at": "2026-08-23T01:12:52.194839"
   },
   {
     "name": "RocketRide Buildathon From Idea to Million-Dollar App | HackWithUP 2.0",
@@ -7310,7 +7514,7 @@
       "devnovate",
       "AI"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529856"
+    "scraped_at": "2026-08-23T01:12:52.194854"
   },
   {
     "name": "Hack With Mumbai",
@@ -7330,7 +7534,7 @@
       "Innovation",
       "Technology"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529867"
+    "scraped_at": "2026-08-23T01:12:52.194868"
   },
   {
     "name": "HACK . IO",
@@ -7350,7 +7554,7 @@
       "Hackathon",
       "Networking"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529878"
+    "scraped_at": "2026-08-23T01:12:52.194882"
   },
   {
     "name": "SNYCO AI Global Hackathon",
@@ -7369,7 +7573,7 @@
       "Machine Learning",
       "Artificial Intelligence"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529888"
+    "scraped_at": "2026-08-23T01:12:52.194896"
   },
   {
     "name": "Hack With Chennai",
@@ -7387,7 +7591,7 @@
       "devnovate",
       "Web Development"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529899"
+    "scraped_at": "2026-08-23T01:12:52.194910"
   },
   {
     "name": "CodeSphere 2025 \u2013 Tech Speaker Series",
@@ -7407,7 +7611,7 @@
       "Innovation",
       "Networking"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529910"
+    "scraped_at": "2026-08-23T01:12:52.194925"
   },
   {
     "name": "Mini SHARK TANK DAVIET - 2025",
@@ -7427,7 +7631,7 @@
       "Innovation",
       "Business Model Development"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529925"
+    "scraped_at": "2026-08-23T01:12:52.194945"
   },
   {
     "name": "Code Chakra | HakITxMRDU'26",
@@ -7447,7 +7651,7 @@
       "Algorithms",
       "Data Structures"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529936"
+    "scraped_at": "2026-08-23T01:12:52.194959"
   },
   {
     "name": "RocketRide Buildathon From Idea to Million-Dollar App Hyderabad | HakITxMRDU'26",
@@ -7467,7 +7671,7 @@
       "Embedded Systems",
       "Robotics"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529947"
+    "scraped_at": "2026-08-23T01:12:52.194975"
   },
   {
     "name": "HackFusion - Manav Rachna x HackWithIndia",
@@ -7487,7 +7691,7 @@
       "Machine Learning",
       "Web Development"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529958"
+    "scraped_at": "2026-08-23T01:12:52.194990"
   },
   {
     "name": "RocketRide Buildathon From Idea to Million-Dollar App Delhi",
@@ -7507,7 +7711,7 @@
       "Generative AI",
       "Machine Learning"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529969"
+    "scraped_at": "2026-08-23T01:12:52.195007"
   },
   {
     "name": "LaunchPadX National Innovation Hackathon 2026",
@@ -7525,7 +7729,7 @@
       "devnovate",
       "AI"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529980"
+    "scraped_at": "2026-08-23T01:12:52.195023"
   },
   {
     "name": "TechFusion Hackathon | HakITxMRDU'26",
@@ -7545,7 +7749,7 @@
       "Cloud & DevOps",
       "AR / VR / XR"
     ],
-    "scraped_at": "2026-08-22T01:07:29.529991"
+    "scraped_at": "2026-08-23T01:12:52.195037"
   },
   {
     "name": "Vibe Code : Build Beyond Code (Only for Chitkara University Students)",
@@ -7565,7 +7769,7 @@
       "Gemini",
       "Prompt-to-Project"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530003"
+    "scraped_at": "2026-08-23T01:12:52.195051"
   },
   {
     "name": "HACKFINITY",
@@ -7582,7 +7786,7 @@
     "tags": [
       "devnovate"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530013"
+    "scraped_at": "2026-08-23T01:12:52.195065"
   },
   {
     "name": "Hack&Chill 3.0",
@@ -7602,7 +7806,7 @@
       "HealthTech",
       "SaaS"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530024"
+    "scraped_at": "2026-08-23T01:12:52.195080"
   },
   {
     "name": "HackWithBanglore 3.0",
@@ -7622,7 +7826,7 @@
       "HealthTech",
       "FinTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530035"
+    "scraped_at": "2026-08-23T01:12:52.195095"
   },
   {
     "name": "Hackademia 2025",
@@ -7642,7 +7846,7 @@
       "Rapid Prototyping",
       "Software Development"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530051"
+    "scraped_at": "2026-08-23T01:12:52.195116"
   },
   {
     "name": "HackWithIndia Discord Talk Show \u2013 Special Guest: Lakshit Pant",
@@ -7662,7 +7866,7 @@
       "Tech Leadership",
       "Microsoft Ecosystem"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530067"
+    "scraped_at": "2026-08-23T01:12:52.195136"
   },
   {
     "name": "YANTRA YUGAM 2026 \u2013 24 Hour National Level Hackathon",
@@ -7682,7 +7886,7 @@
       "IoT",
       "Cybersecurity"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530082"
+    "scraped_at": "2026-08-23T01:12:52.195152"
   },
   {
     "name": "CodePunk v2.0",
@@ -7702,7 +7906,7 @@
       "Generative AI",
       "HealthTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530093"
+    "scraped_at": "2026-08-23T01:12:52.195169"
   },
   {
     "name": "CodePunk v2.0",
@@ -7722,7 +7926,7 @@
       "Generative AI",
       "HealthTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530103"
+    "scraped_at": "2026-08-23T01:12:52.195184"
   },
   {
     "name": "LEARN IT Tour Ghaziabad",
@@ -7742,7 +7946,7 @@
       "Innovation",
       "Networking"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530115"
+    "scraped_at": "2026-08-23T01:12:52.195199"
   },
   {
     "name": "LEARN IT Tour Ghaziabad",
@@ -7761,7 +7965,7 @@
       "FREE",
       "Web"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530126"
+    "scraped_at": "2026-08-23T01:12:52.195214"
   },
   {
     "name": "FlutterFlow Champions League Hackathon",
@@ -7780,7 +7984,7 @@
       "HealthTech",
       "FinTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530137"
+    "scraped_at": "2026-08-23T01:12:52.195229"
   },
   {
     "name": "COSMONOVA 2.0",
@@ -7800,7 +8004,7 @@
       "AI",
       "Computer Science "
     ],
-    "scraped_at": "2026-08-22T01:07:29.530148"
+    "scraped_at": "2026-08-23T01:12:52.195243"
   },
   {
     "name": "Neural Nexus -The Future of AI in Software Development",
@@ -7817,7 +8021,7 @@
     "tags": [
       "devnovate"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530159"
+    "scraped_at": "2026-08-23T01:12:52.195257"
   },
   {
     "name": "Origin 25\u2019",
@@ -7837,7 +8041,7 @@
       "Workshop ",
       "Networking"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530170"
+    "scraped_at": "2026-08-23T01:12:52.195273"
   },
   {
     "name": "BuildwithIndia 2.0",
@@ -7857,7 +8061,7 @@
       "AI",
       "Web 3.0"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530180"
+    "scraped_at": "2026-08-23T01:12:52.195288"
   },
   {
     "name": "100 Days of DSA (LeetCode Edition)",
@@ -7876,7 +8080,7 @@
       "Leetcode",
       "DSA"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530191"
+    "scraped_at": "2026-08-23T01:12:52.195303"
   },
   {
     "name": "OUTSYSLAYER",
@@ -7896,7 +8100,7 @@
       "Web Development",
       "SaaS"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530201"
+    "scraped_at": "2026-08-23T01:12:52.195317"
   },
   {
     "name": "COSMOS : Upside Down - Technical Competition",
@@ -7916,7 +8120,7 @@
       "Machine Learning",
       "Mobile Development"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530212"
+    "scraped_at": "2026-08-23T01:12:52.195331"
   },
   {
     "name": "Devnovate Hire-A-Thon 2.0",
@@ -7935,7 +8139,7 @@
       "hiring",
       "hackathon "
     ],
-    "scraped_at": "2026-08-22T01:07:29.530223"
+    "scraped_at": "2026-08-23T01:12:52.195346"
   },
   {
     "name": "AI Conclave",
@@ -7955,7 +8159,7 @@
       "Machine Learning",
       "Artificial Intelligence"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530234"
+    "scraped_at": "2026-08-23T01:12:52.195360"
   },
   {
     "name": "InnovaHack Chapter - 1",
@@ -7975,7 +8179,7 @@
       "FinTech",
       "Web3"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530245"
+    "scraped_at": "2026-08-23T01:12:52.195374"
   },
   {
     "name": "VARCHASVA 2026",
@@ -7995,7 +8199,7 @@
       "HealthTech",
       "FinTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530255"
+    "scraped_at": "2026-08-23T01:12:52.195390"
   },
   {
     "name": "BUILDIT TOUR 3.0 BANGLORE EDITION",
@@ -8015,7 +8219,7 @@
       "Premium Networking",
       "Career & Community Growth"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530266"
+    "scraped_at": "2026-08-23T01:12:52.195404"
   },
   {
     "name": "BUILDIT TOUR 3.0 DELHI EDITION",
@@ -8035,7 +8239,7 @@
       "Premium Networking",
       "Career & Community Growth"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530277"
+    "scraped_at": "2026-08-23T01:12:52.195421"
   },
   {
     "name": "CODE SPRINT",
@@ -8055,7 +8259,7 @@
       "Programming",
       "Developers"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530287"
+    "scraped_at": "2026-08-23T01:12:52.195436"
   },
   {
     "name": "Summer Analytics 2025",
@@ -8075,7 +8279,7 @@
       "Data Science",
       "Machine Learning"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530298"
+    "scraped_at": "2026-08-23T01:12:52.195451"
   },
   {
     "name": "DomainX",
@@ -8095,7 +8299,7 @@
       "Skill Development",
       "Innovation"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530311"
+    "scraped_at": "2026-08-23T01:12:52.195465"
   },
   {
     "name": "AWS Mumbai Meetup",
@@ -8115,7 +8319,7 @@
       "Blockchain",
       "Cybersecurity"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530322"
+    "scraped_at": "2026-08-23T01:12:52.195479"
   },
   {
     "name": "HackSpark 2025: India's Largest GenAI Hackathon",
@@ -8135,7 +8339,7 @@
       "HealthTech",
       "FinTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530336"
+    "scraped_at": "2026-08-23T01:12:52.195497"
   },
   {
     "name": "HackwithGNIOT",
@@ -8152,7 +8356,7 @@
     "tags": [
       "devnovate"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530347"
+    "scraped_at": "2026-08-23T01:12:52.195514"
   },
   {
     "name": "Major Student Hack (MSH)",
@@ -8172,7 +8376,7 @@
       "Studentdeveloper",
       "Coding"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530358"
+    "scraped_at": "2026-08-23T01:12:52.195528"
   },
   {
     "name": "HACK DEFENCE",
@@ -8191,7 +8395,7 @@
       "cyber security",
       "ethical hacking"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530368"
+    "scraped_at": "2026-08-23T01:12:52.195543"
   },
   {
     "name": "Pitchathon",
@@ -8211,7 +8415,7 @@
       "HealthTech",
       "FinTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530379"
+    "scraped_at": "2026-08-23T01:12:52.195558"
   },
   {
     "name": "HACK MANTHAN 2.0",
@@ -8230,7 +8434,7 @@
       "Machine Learning",
       "FinTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530390"
+    "scraped_at": "2026-08-23T01:12:52.195572"
   },
   {
     "name": "CODEDGE",
@@ -8250,7 +8454,7 @@
       "Mobile Development",
       "Web Development"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530401"
+    "scraped_at": "2026-08-23T01:12:52.195587"
   },
   {
     "name": "HACKXTREME 1.0",
@@ -8268,7 +8472,7 @@
       "devnovate",
       "Open Innovation"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530411"
+    "scraped_at": "2026-08-23T01:12:52.195601"
   },
   {
     "name": "Vibeathon 2026",
@@ -8288,7 +8492,7 @@
       "Web Development",
       "HealthTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530422"
+    "scraped_at": "2026-08-23T01:12:52.195616"
   },
   {
     "name": "HackWithMumbai 3.0",
@@ -8308,7 +8512,7 @@
       "HealthTech",
       "FinTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530435"
+    "scraped_at": "2026-08-23T01:12:52.195631"
   },
   {
     "name": "AScAIthon 2026",
@@ -8328,7 +8532,7 @@
       "Mobile Development",
       "Web Development"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530445"
+    "scraped_at": "2026-08-23T01:12:52.195645"
   },
   {
     "name": "cybershield",
@@ -8345,7 +8549,7 @@
     "tags": [
       "devnovate"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530455"
+    "scraped_at": "2026-08-23T01:12:52.195659"
   },
   {
     "name": "Hack With Hyderabad",
@@ -8365,7 +8569,7 @@
       "Innovation",
       "Technology"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530467"
+    "scraped_at": "2026-08-23T01:12:52.195674"
   },
   {
     "name": "Build with AI",
@@ -8385,7 +8589,7 @@
       "TechEvent",
       "BuildWithAI"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530478"
+    "scraped_at": "2026-08-23T01:12:52.195688"
   },
   {
     "name": "GHRhack 2.",
@@ -8405,7 +8609,7 @@
       "HealthTech",
       "FinTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530488"
+    "scraped_at": "2026-08-23T01:12:52.195712"
   },
   {
     "name": "GHRhack 2.",
@@ -8425,7 +8629,7 @@
       "FinTech",
       "Web3"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530499"
+    "scraped_at": "2026-08-23T01:12:52.195726"
   },
   {
     "name": "HackwithBangalore 2.0",
@@ -8444,7 +8648,7 @@
       "Web Development",
       "Hackathon"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530509"
+    "scraped_at": "2026-08-23T01:12:52.195740"
   },
   {
     "name": "FIX FORWARD IDEATHON 2026",
@@ -8464,7 +8668,7 @@
       "Sustainability",
       "Machine Learning"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530520"
+    "scraped_at": "2026-08-23T01:12:52.195753"
   },
   {
     "name": "ORBIT Agentic Hyperthon (Season 1)",
@@ -8483,7 +8687,7 @@
       "Agentic AI",
       "Generative AI"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530530"
+    "scraped_at": "2026-08-23T01:12:52.195767"
   },
   {
     "name": "Agents you Love 2: Hackathon",
@@ -8501,7 +8705,7 @@
       "devnovate",
       "Generative AI"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530541"
+    "scraped_at": "2026-08-23T01:12:52.195780"
   },
   {
     "name": "Quackathon 2.0",
@@ -8521,7 +8725,7 @@
       "HealthTech",
       "FinTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530557"
+    "scraped_at": "2026-08-23T01:12:52.195794"
   },
   {
     "name": "METANOVA",
@@ -8541,7 +8745,7 @@
       "Sustainability",
       "Generative AI"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530568"
+    "scraped_at": "2026-08-23T01:12:52.195810"
   },
   {
     "name": "VIBE HACK 2.0 \u2013 2025",
@@ -8561,7 +8765,7 @@
       "Innovation",
       "Virtual Collaboration"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530579"
+    "scraped_at": "2026-08-23T01:12:52.195824"
   },
   {
     "name": "VIBE HACK \u2013 2025",
@@ -8581,7 +8785,7 @@
       "Innovation",
       "Virtual Collaboration"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530589"
+    "scraped_at": "2026-08-23T01:12:52.195838"
   },
   {
     "name": "RocketRide Buildathon From Idea to Million-Dollar App | BVUDET Mumbai",
@@ -8601,7 +8805,7 @@
       "Agentic AI",
       "Developer Tools"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530601"
+    "scraped_at": "2026-08-23T01:12:52.195852"
   },
   {
     "name": "PITCHIN' 180 SECONDS",
@@ -8619,7 +8823,7 @@
       "devnovate",
       "Networking"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530611"
+    "scraped_at": "2026-08-23T01:12:52.195866"
   },
   {
     "name": "Hack with india x codeation",
@@ -8637,7 +8841,7 @@
       "devnovate",
       "Generative AI"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530621"
+    "scraped_at": "2026-08-23T01:12:52.195879"
   },
   {
     "name": "Build It Tour Gurgaon",
@@ -8657,7 +8861,7 @@
       "Innovation",
       "Networking"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530812"
+    "scraped_at": "2026-08-23T01:12:52.196118"
   },
   {
     "name": "VibewithIndia 2.0",
@@ -8677,7 +8881,7 @@
       "HealthTech",
       "FinTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530829"
+    "scraped_at": "2026-08-23T01:12:52.196143"
   },
   {
     "name": "TechX Delhi",
@@ -8697,7 +8901,7 @@
       "HealthTech",
       "Sustainability"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530840"
+    "scraped_at": "2026-08-23T01:12:52.196157"
   },
   {
     "name": "Summer Analytics 2026",
@@ -8717,7 +8921,7 @@
       "Machine Learning",
       "Artificial Intelligence"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530853"
+    "scraped_at": "2026-08-23T01:12:52.196172"
   },
   {
     "name": "Hack with Hyderabad 2.0 2026",
@@ -8735,7 +8939,7 @@
       "devnovate",
       "Generative AI"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530864"
+    "scraped_at": "2026-08-23T01:12:52.196185"
   },
   {
     "name": "InnoHack 2.0 \u2013 National Level Hackathon",
@@ -8755,7 +8959,7 @@
       "AI",
       "IoT"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530880"
+    "scraped_at": "2026-08-23T01:12:52.196205"
   },
   {
     "name": "Summer of Code Fest 2.0",
@@ -8775,7 +8979,7 @@
       "Campus Innovation & Student Solutions",
       "Hardware Projects & Robotics"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530890"
+    "scraped_at": "2026-08-23T01:12:52.196219"
   },
   {
     "name": "HACK-AI-THON",
@@ -8795,7 +8999,7 @@
       "MachineLearning",
       "DeepLearning"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530902"
+    "scraped_at": "2026-08-23T01:12:52.196233"
   },
   {
     "name": "HACK LEAGUE",
@@ -8815,7 +9019,7 @@
       "#ResponsibleAI",
       "#DevChallenge"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530913"
+    "scraped_at": "2026-08-23T01:12:52.196247"
   },
   {
     "name": "Marathon Hackathon",
@@ -8835,7 +9039,7 @@
       "HealthTech",
       "FinTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530924"
+    "scraped_at": "2026-08-23T01:12:52.196260"
   },
   {
     "name": "AIML WORKSHOP",
@@ -8854,7 +9058,7 @@
       "Generative AI",
       "Machine Learning"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530938"
+    "scraped_at": "2026-08-23T01:12:52.196274"
   },
   {
     "name": "Cyber Security Workshop",
@@ -8872,7 +9076,7 @@
       "devnovate",
       "Cybersecurity"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530949"
+    "scraped_at": "2026-08-23T01:12:52.196288"
   },
   {
     "name": "test123o8989",
@@ -8891,7 +9095,7 @@
       "HealthTech",
       "FinTech"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530960"
+    "scraped_at": "2026-08-23T01:12:52.196302"
   },
   {
     "name": "GenCode 2025-Vibe Coding Contest",
@@ -8909,6 +9113,6 @@
       "devnovate",
       "Generative AI"
     ],
-    "scraped_at": "2026-08-22T01:07:29.530970"
+    "scraped_at": "2026-08-23T01:12:52.196316"
   }
 ]
