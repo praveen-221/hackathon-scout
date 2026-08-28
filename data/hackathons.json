@@ -1,5 +1,48 @@
 [
   {
+    "name": "Lun4R CTF 2026",
+    "source": "unstop",
+    "url": "https://unstop.com/hackathons/lun4r-ctf-2026-rajadhani-institute-of-engineering-and-technology-1745542",
+    "start_date": "2026-09-20T00:00:00",
+    "end_date": "2026-10-04T00:00:00",
+    "registration_deadline": null,
+    "description": "Step into the shadows. Hunt the flag. Claim the moon. Lun4R CTF 2026 is a high-intensity cybersecurity Capture The Flag competition conducted by ROOT RIET, the cybersecurity community of Rajadhani Institute of Engineering and Technology (RIET). Designed for cybersecurity enthusiasts, students, and problem-solvers, Lun4R CTF brings together challenges that test technical skills, creativity, persistence, and the ability to think beyond the obvious. \u20b91 LAKH CASH PRIZE + EXCLUSIVE VOUCHERS Compete f",
+    "mode": "online",
+    "venue": "",
+    "participation_criteria": "",
+    "prize_pool": "1st Position: $50000, 2nd Position: $30000, 3rd Position: $20000",
+    "tags": [
+      "unstop",
+      "Cybersecurity Law",
+      "Ethical Hacking",
+      "Cyber Threat Intelligence",
+      "Cybersecurity Frameworks",
+      "online_coding_challenge"
+    ],
+    "scraped_at": "2026-08-28T09:38:00.943697"
+  },
+  {
+    "name": "GopwnIt CTF",
+    "source": "unstop",
+    "url": "https://unstop.com/hackathons/gopwnit-ctf-gopwnit-1745426",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "description": "About the Competition  Get ready to test your cybersecurity skills in the Gopwnit CTF, an online Capture The Flag competition organized by Gopwnit on 10 October. The competition is designed for anyone interested in cybersecurity and problem-solving &mdash; whether you are a student, cybersecurity enthusiast, beginner, professional, developer, ethical hacker, or experienced CTF player. Participants will face a variety of cybersecurity challenges that require logical thinking, technical knowledge,",
+    "mode": "online",
+    "venue": "",
+    "participation_criteria": "",
+    "prize_pool": "",
+    "tags": [
+      "unstop",
+      "Digital Forensics",
+      "Ethical Hacking",
+      "Problem Solving",
+      "online_coding_challenge"
+    ],
+    "scraped_at": "2026-08-28T09:38:00.946743"
+  },
+  {
     "name": "Anakin Forge Hackathon",
     "source": "unstop",
     "url": "https://unstop.com/hackathons/anakin-forge-hackathon-anakin-skywalker-pvt-ltd-1742485",
@@ -3344,28 +3387,5 @@
       "online_coding_challenge"
     ],
     "scraped_at": "2026-05-31T03:42:10.508504"
-  },
-  {
-    "name": "Hack2Hire: AI-Powered Interview Hackathon",
-    "source": "unstop",
-    "url": "https://unstop.com/hackathons/hack2hire-ai-powered-interview-hackathon-unsaidtalks-education-1691344",
-    "start_date": null,
-    "end_date": null,
-    "registration_deadline": null,
-    "description": "Overview:  AI-focused hackathon centered around intelligent hiring and adaptive interview systems Focuses on rethinking traditional interviews into human-centered AI evaluation platforms Backed by 12+ successful hackathon editions, 100,000+ impressions, and 3000+ registrations  Challenge Statement:  Build an AI-Powered Mock Interview Platform Simulate real-world interview environments using an AI Interviewer Evaluate candidates using resume relevance, job description alignment, adaptability, res",
-    "mode": "online",
-    "venue": "",
-    "participation_criteria": "",
-    "prize_pool": "Winner: Certificate, First Runner Up: Certificate, Second Runner Up: Certificate",
-    "tags": [
-      "unstop",
-      "Artificial Intelligence (AI)",
-      "Machine Learning Concepts",
-      "Predictive Analytics",
-      "Data Analysis Tools",
-      "Natural Language Processing (NLP)",
-      "online_coding_challenge"
-    ],
-    "scraped_at": "2026-05-30T02:55:59.484704"
   }
 ]
