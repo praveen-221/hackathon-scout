@@ -5839,3 +5839,46 @@
 2026-08-28 09:38:09,443 - src.orchestrator - INFO - Total hackathons: 158
 2026-08-28 09:38:09,443 - src.orchestrator - INFO - New this run: 2
 2026-08-28 09:38:09,443 - src.orchestrator - INFO - ==================================================
+2026-08-29 05:42:29,733 - src.orchestrator - INFO - Logging configured
+2026-08-29 05:42:29,733 - src.orchestrator - INFO - Storage initialized
+2026-08-29 05:42:29,733 - src.orchestrator - INFO - Email notifier configured for 1 recipients
+2026-08-29 05:42:29,733 - src.orchestrator - INFO - Starting scrape...
+2026-08-29 05:42:29,733 - src.orchestrator - INFO - Scraping from 7 sources: ['devpost', 'unstop', 'devfolio', 'hack2skill', 'whereuelevate', 'hackerearth', 'devnovate']
+2026-08-29 05:42:29,734 - src.orchestrator - INFO - Scraping devpost...
+2026-08-29 05:42:30,185 - src.scrapers.base.DevpostScraper - INFO - Scraped 9 from Devpost
+2026-08-29 05:42:30,186 - src.orchestrator - INFO -   -> Got 9 hackathons from devpost
+2026-08-29 05:42:30,186 - src.orchestrator - INFO - Scraping unstop...
+2026-08-29 05:42:34,641 - src.scrapers.base.UnstopScraper - INFO - Scraped 123 from Unstop
+2026-08-29 05:42:34,642 - src.orchestrator - INFO -   -> Got 123 hackathons from unstop
+2026-08-29 05:42:34,643 - src.orchestrator - INFO - Scraping devfolio...
+2026-08-29 05:42:35,991 - src.scrapers.base.DevfolioScraper - INFO - Scraped 20 from Devfolio
+2026-08-29 05:42:35,991 - src.orchestrator - INFO -   -> Got 20 hackathons from devfolio
+2026-08-29 05:42:35,991 - src.orchestrator - INFO - Scraping hack2skill...
+2026-08-29 05:42:36,630 - src.scrapers.base.Hack2SkillScraper - INFO - Scraped 11 from Hack2Skill
+2026-08-29 05:42:36,630 - src.orchestrator - INFO -   -> Got 11 hackathons from hack2skill
+2026-08-29 05:42:36,631 - src.orchestrator - INFO - Scraping whereuelevate...
+2026-08-29 05:42:38,136 - src.scrapers.base.WhereUElevateScraper - INFO - Scraped 30 from WhereUElevate
+2026-08-29 05:42:38,137 - src.orchestrator - INFO -   -> Got 30 hackathons from whereuelevate
+2026-08-29 05:42:38,137 - src.orchestrator - INFO - Scraping hackerearth...
+2026-08-29 05:42:38,919 - src.scrapers.base.HackerEarthScraper - WARNING - HackerEarth returned 403
+2026-08-29 05:42:38,919 - src.orchestrator - INFO -   -> Got 0 hackathons from hackerearth
+2026-08-29 05:42:38,919 - src.orchestrator - INFO - Scraping devnovate...
+2026-08-29 05:42:41,661 - src.scrapers.base.DevnovateScraper - INFO - Scraped 266 from Devnovate
+2026-08-29 05:42:41,662 - src.orchestrator - INFO -   -> Got 266 hackathons from devnovate
+2026-08-29 05:42:41,662 - src.orchestrator - INFO - Saving 459 unfiltered hackathons...
+2026-08-29 05:42:41,670 - src.storage - INFO - Saved 459 unfiltered hackathons to data/hackathons_unfiltered.json
+2026-08-29 05:42:41,670 - src.orchestrator - INFO - Filtering hackathons...
+2026-08-29 05:42:41,670 - src.orchestrator - INFO - Filtered to 32 hackathons matching criteria
+2026-08-29 05:42:41,671 - src.orchestrator - INFO - Storing and deduplicating...
+2026-08-29 05:42:41,671 - src.orchestrator - INFO - Filtered to 32 valid hackathons after removing invalid entries
+2026-08-29 05:42:41,672 - src.storage - INFO - Loaded 157 hackathons from storage
+2026-08-29 05:42:41,672 - src.storage - INFO - Found 0 new hackathons out of 32 scraped
+2026-08-29 05:42:41,675 - src.storage - INFO - Saved 157 hackathons to storage
+2026-08-29 05:42:41,677 - src.storage - INFO - Loaded 157 hackathons from storage
+2026-08-29 05:42:41,680 - src.storage - INFO - Saved 156 hackathons to storage
+2026-08-29 05:42:41,680 - src.storage - INFO - Cleared 1 old entries
+2026-08-29 05:42:41,680 - src.orchestrator - INFO - ==================================================
+2026-08-29 05:42:41,680 - src.orchestrator - INFO - Completed in 11.9s
+2026-08-29 05:42:41,680 - src.orchestrator - INFO - Total hackathons: 157
+2026-08-29 05:42:41,680 - src.orchestrator - INFO - New this run: 0
+2026-08-29 05:42:41,680 - src.orchestrator - INFO - ==================================================
