@@ -3,9 +3,9 @@ name: Daily Hackathon Scout
 run-name: "Hackathon Scout #${{ github.run_number }}"
 
 on:
-  schedule:
+  # schedule:
     # Run daily at 00:00 UTC (midnight)
-    - cron: '0 0 * * *'
+    # - cron: '0 0 * * *'
   # Allow manual trigger
   workflow_dispatch:
 
