@@ -5882,3 +5882,47 @@
 2026-08-29 05:42:41,680 - src.orchestrator - INFO - Total hackathons: 157
 2026-08-29 05:42:41,680 - src.orchestrator - INFO - New this run: 0
 2026-08-29 05:42:41,680 - src.orchestrator - INFO - ==================================================
+2026-08-30 03:44:08,854 - src.orchestrator - INFO - Logging configured
+2026-08-30 03:44:08,854 - src.orchestrator - INFO - Storage initialized
+2026-08-30 03:44:08,854 - src.orchestrator - INFO - Email notifier configured for 1 recipients
+2026-08-30 03:44:08,854 - src.orchestrator - INFO - Starting scrape...
+2026-08-30 03:44:08,854 - src.orchestrator - INFO - Scraping from 7 sources: ['devpost', 'unstop', 'devfolio', 'hack2skill', 'whereuelevate', 'hackerearth', 'devnovate']
+2026-08-30 03:44:08,854 - src.orchestrator - INFO - Scraping devpost...
+2026-08-30 03:44:09,217 - src.scrapers.base.DevpostScraper - INFO - Scraped 9 from Devpost
+2026-08-30 03:44:09,217 - src.orchestrator - INFO -   -> Got 9 hackathons from devpost
+2026-08-30 03:44:09,217 - src.orchestrator - INFO - Scraping unstop...
+2026-08-30 03:44:13,902 - src.scrapers.base.UnstopScraper - INFO - Scraped 124 from Unstop
+2026-08-30 03:44:13,903 - src.orchestrator - INFO -   -> Got 124 hackathons from unstop
+2026-08-30 03:44:13,903 - src.orchestrator - INFO - Scraping devfolio...
+2026-08-30 03:44:15,272 - src.scrapers.base.DevfolioScraper - INFO - Scraped 20 from Devfolio
+2026-08-30 03:44:15,273 - src.orchestrator - INFO -   -> Got 20 hackathons from devfolio
+2026-08-30 03:44:15,273 - src.orchestrator - INFO - Scraping hack2skill...
+2026-08-30 03:44:15,779 - src.scrapers.base.Hack2SkillScraper - INFO - Scraped 11 from Hack2Skill
+2026-08-30 03:44:15,779 - src.orchestrator - INFO -   -> Got 11 hackathons from hack2skill
+2026-08-30 03:44:15,779 - src.orchestrator - INFO - Scraping whereuelevate...
+2026-08-30 03:44:17,259 - src.scrapers.base.WhereUElevateScraper - INFO - Scraped 30 from WhereUElevate
+2026-08-30 03:44:17,259 - src.orchestrator - INFO -   -> Got 30 hackathons from whereuelevate
+2026-08-30 03:44:17,259 - src.orchestrator - INFO - Scraping hackerearth...
+2026-08-30 03:44:18,041 - src.scrapers.base.HackerEarthScraper - WARNING - HackerEarth returned 403
+2026-08-30 03:44:18,041 - src.orchestrator - INFO -   -> Got 0 hackathons from hackerearth
+2026-08-30 03:44:18,041 - src.orchestrator - INFO - Scraping devnovate...
+2026-08-30 03:44:21,039 - src.scrapers.base.DevnovateScraper - INFO - Scraped 266 from Devnovate
+2026-08-30 03:44:21,039 - src.orchestrator - INFO -   -> Got 266 hackathons from devnovate
+2026-08-30 03:44:21,040 - src.orchestrator - INFO - Saving 460 unfiltered hackathons...
+2026-08-30 03:44:21,045 - src.storage - INFO - Saved 460 unfiltered hackathons to data/hackathons_unfiltered.json
+2026-08-30 03:44:21,046 - src.orchestrator - INFO - Filtering hackathons...
+2026-08-30 03:44:21,046 - src.orchestrator - INFO - Filtered to 31 hackathons matching criteria
+2026-08-30 03:44:21,046 - src.orchestrator - INFO - Storing and deduplicating...
+2026-08-30 03:44:21,046 - src.orchestrator - INFO - Filtered to 31 valid hackathons after removing invalid entries
+2026-08-30 03:44:21,047 - src.storage - INFO - Loaded 156 hackathons from storage
+2026-08-30 03:44:21,047 - src.storage - INFO - Found 1 new hackathons out of 31 scraped
+2026-08-30 03:44:21,049 - src.storage - INFO - Saved 157 hackathons to storage
+2026-08-30 03:44:21,050 - src.orchestrator - INFO - Sending email for 1 new hackathons...
+2026-08-30 03:44:22,420 - src.emailer - INFO - Sent email to 1 recipients with 1 hackathons
+2026-08-30 03:44:22,421 - src.orchestrator - INFO - Email sent successfully
+2026-08-30 03:44:22,422 - src.storage - INFO - Loaded 157 hackathons from storage
+2026-08-30 03:44:22,422 - src.orchestrator - INFO - ==================================================
+2026-08-30 03:44:22,422 - src.orchestrator - INFO - Completed in 13.6s
+2026-08-30 03:44:22,422 - src.orchestrator - INFO - Total hackathons: 157
+2026-08-30 03:44:22,422 - src.orchestrator - INFO - New this run: 1
+2026-08-30 03:44:22,422 - src.orchestrator - INFO - ==================================================
